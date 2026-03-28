@@ -3,8 +3,8 @@
 ## AI Usage in This Project
 
 ### AI Tools Used
-- **GitHub Copilot / Cascade**: Used for code generation, refactoring, and documentation
-- **ChatGPT**: Used for architectural guidance and problem-solving
+- **Deepseek / Claude**: Used for prompt generation, coding, refactoring, and documentation
+- **Claude**: Used for architectural guidance and problem-solving
 
 ### What Was AI-Assisted
 
