@@ -1,0 +1,1226 @@
+employee_id,full_name,age,department,position,education,employment_type,hire_date,years_experience,salary,bonus,performance_rating,satisfaction_score,remote_work_pct
+EMP-00432,Employee_432,44,Marketing,Lead,Bachelor,Full-time,2022-01-01,25,129336.64,12719.11,Good,6.8,14.0
+EMP-00204,Employee_204,50,Finance,Manager,Other,Full-time,2015-11-22,34,176951.39,14973.2,Excellent,1.4,29.0
+EMP-01113,Employee_1113,28,Marketing,VP,Master,Full-time,2020-01-05,16,191525.44,8567.81,Average,1.0,68.0
+EMP-00646,Employee_646,29,Marketing,Senior,Bachelor,Full-time,2018-09-29,24,180126.77,3769.67,Excellent,4.5,73.0
+EMP-00264,Employee_264,37,Marketing,Manager,Other,Part-time,2022-05-01,29,55690.01,10832.25,Poor,8.1,65.0
+EMP-00965,Employee_965,32,HR,Director,Other,Part-time,2020-05-05,6,52912.34,10769.41,Poor,7.0,97.0
+EMP-00036,Employee_36,34,Finance,Senior,Other,Part-time,2018-10-14,20,66218.55,12470.08,Good,8.0,31.0
+EMP-00156,Employee_156,25,HR,Senior,Master,Contract,2018-12-23,6,88755.06,5033.52,Average,4.2,74.0
+EMP-00875,Employee_875,51,Finance,Lead,Other,Full-time,2020-05-14,5,69394.52,5579.72,Below Average,4.3,52.0
+EMP-00651,Employee_651,42,Support,Manager,,Full-time,2016-10-24,12,144276.61,4383.89,Excellent,3.0,95.0
+EMP-00588,Employee_588,41,Sales,Lead,High School,Contract,2015-01-23,35,80688.63,7891.65,Below Average,7.8,78.0
+EMP-00680,Employee_680,25,Marketing,Director,Master,Intern,2016-01-01,10,175177.83,12477.62,Excellent,1.1,70.0
+EMP-00508,Employee_508,39,Finance,Senior,Other,Full-time,2016-03-31,34,194839.35,8034.41,,1.3,83.0
+EMP-00614,Employee_614,39,Operations,VP,Bachelor,Intern,2021-11-18,11,32236.12,12348.8,,2.4,30.0
+EMP-00549,Employee_549,40,Legal,Senior,Bachelor,Contract,2016-11-18,30,124781.89,13243.12,Good,3.1,78.0
+EMP-00014,Employee_14,52,Finance,Senior,,Part-time,2017-07-31,23,154971.09,8438.83,Excellent,3.1,74.0
+EMP-00954,Employee_954,24,Support,Director,Master,Intern,2020-02-06,29,64652.08,6347.99,,3.4,63.0
+EMP-00784,Employee_784,36,Legal,Senior,PhD,Part-time,2022-03-28,32,63082.64,8068.43,Excellent,2.8,1.0
+EMP-00995,Employee_995,41,Sales,VP,PhD,Full-time,2021-12-20,18,102199.40500000001,3788.56,Good,3.7,16.0
+EMP-00135,Employee_135,33,Legal,Director,Bachelor,Intern,2015-12-07,26,173797.97,8717.98,Excellent,3.7,98.0
+EMP-00708,Employee_708,64,Engineering,Lead,Bachelor,Part-time,2015-01-23,12,123237.8,6847.15,Poor,,80.0
+EMP-01167,Employee_1167,46,Finance,Lead,Bachelor,Intern,2023-01-23,9,102230.38,13817.06,Good,6.8,5.0
+EMP-00601,Employee_601,42,HR,Director,Master,Intern,2020-02-17,4,165187.69,10271.15,Average,2.7,97.0
+EMP-00043,Employee_43,30,Sales,Senior,Master,Intern,2019-09-01,28,132474.88,1319.12,Excellent,8.1,38.0
+EMP-00157,Employee_157,42,Legal,Junior,Master,Contract,2017-02-02,2,114399.55,5265.83,Poor,6.5,76.0
+EMP-00207,Employee_207,23,Marketing,Director,Master,Part-time,2022-05-21,16,172720.74,10866.99,Average,5.3,84.0
+EMP-00964,Employee_964,45,Sales,Director,Other,Contract,2017-04-05,19,109949.99,6499.74,Average,6.7,
+EMP-00139,Employee_139,63,Sales,Director,High School,Intern,2016-02-29,7,48478.85,85.47,Average,,17.0
+EMP-00686,Employee_686,49,Support,Junior,High School,Full-time,2017-05-14,23,111858.49,2540.83,Excellent,5.1,59.0
+EMP-01056,Employee_1056,27,Legal,Manager,Other,Intern,2019-12-29,2,59614.33,9876.45,Below Average,9.4,51.0
+EMP-01161,Employee_1161,36,Engineering,Junior,,Contract,2020-04-03,26,169008.39,7893.59,Average,6.3,10.0
+EMP-01043,Employee_1043,42,Sales,Junior,Bachelor,Contract,2020-07-14,38,161715.73,5839.79,Below Average,6.2,90.0
+EMP-00794,Employee_794,44,Sales,Director,PhD,Intern,2020-11-18,33,122376.62,14281.21,Good,8.9,36.0
+EMP-00903,Employee_903,29,Marketing,Junior,Other,Intern,2017-07-19,22,114005.76,2233.81,Below Average,4.1,65.0
+EMP-00620,Employee_620,40,Operations,VP,Bachelor,Part-time,2020-12-09,22,34846.34,504.88,Poor,1.4,29.0
+EMP-00438,Employee_438,53,Finance,Manager,Other,Full-time,2021-07-23,26,51580.65,1764.72,Excellent,2.2,87.0
+EMP-00621,Employee_621,63,Support,Junior,Master,Part-time,2015-08-27,20,165748.52,13568.05,Average,,29.0
+EMP-01086,Employee_1086,58,Support,Manager,High School,Contract,2019-09-27,0,145776.37,5137.3,Below Average,1.2,59.0
+EMP-01055,Employee_1055,29,Legal,Manager,Other,Full-time,2021-04-12,34,188261.69,1422.84,Good,6.4,25.0
+EMP-00151,Employee_151,47,Sales,VP,High School,Intern,2019-02-23,4,84472.34,3810.03,Good,6.2,31.0
+EMP-00766,Employee_766,46,Engineering,Senior,Other,Contract,2016-12-04,6,103295.86,12389.19,Excellent,5.5,52.0
+EMP-00046,Employee_46,60,Legal,Lead,PhD,Contract,2022-03-09,28,131394.5,3596.26,Poor,1.7,50.0
+EMP-00876,Employee_876,29,HR,Director,Master,Intern,2016-04-05,5,"£135,607.55",12343.56,Below Average,3.9,93.0
+EMP-01165,Employee_1165,43,Operations,Senior,High School,Intern,2015-01-28,31,58265.37,6657.18,Below Average,4.9,32.0
+EMP-00222,Employee_222,25,Legal,Manager,PhD,Contract,2015-10-18,24,165498.61,13651.48,,1.7,41.0
+EMP-00830,Employee_830,33,Engineering,Director,Other,Full-time,2018-09-19,24,92339.16,14788.63,Poor,7.9,13.0
+EMP-00994,Employee_994,54,Operations,Senior,High School,Part-time,2015-10-28,32,103481.98,4083.36,Good,1.3,95.0
+EMP-00210,Employee_210,38,Support,Senior,Bachelor,Full-time,2022-06-14,33,163459.3,14290.48,Average,5.4,64.0
+EMP-00693,Employee_693,26,Engineering,VP,Bachelor,Contract,2017-03-12,15,113338.5,2913.21,Excellent,1.6,69.0
+EMP-00445,Employee_445,39,Sales,VP,Master,Full-time,2019-02-26,37,159618.26,11744.54,Below Average,8.1,71.0
+EMP-00168,Employee_168,54,Marketing,Manager,Bachelor,Part-time,2022-04-11,7,"£191,372.80",2107.91,Average,5.6,79.0
+EMP-00357,Employee_357,43,Engineering,VP,High School,Intern,2018-06-02,22,51031.21,13171.43,Below Average,7.0,41.0
+EMP-01159,Employee_1159,50,Finance,Lead,Master,Intern,2015-08-29,12,119780.22,8616.26,,2.9,54.0
+EMP-01049,Employee_1049,45,Finance,Director,High School,Intern,2022-03-25,11,96294.48,8532.03,Excellent,6.4,46.0
+EMP-01155,Employee_1155,29,Engineering,Lead,High School,Intern,2020-12-11,20,36879.44,14713.86,Poor,,23.0
+EMP-01066,Employee_1066,29,Legal,Manager,Other,Intern,2018-05-28,6,191993.13,13985.3,Average,6.1,26.0
+EMP-00503,Employee_503,52,HR,Senior,Master,Full-time,2017-02-04,19,47616.9,4046.54,Good,7.3,94.0
+EMP-00464,Employee_464,29,Operations,VP,Master,Contract,2020-09-17,23,139743.11,11055.71,Below Average,6.4,
+EMP-00172,Employee_172,30,Legal,Manager,Bachelor,Full-time,2020-01-13,10,76839.38,6455.27,Good,,94.0
+EMP-00229,Employee_229,24,Support,Junior,High School,Contract,2018-08-18,10,122097.73,3625.35,Below Average,5.5,
+EMP-01181,Employee_1181,34,Finance,Lead,Bachelor,Full-time,2022-06-02,14,170238.95,7830.81,Below Average,5.0,1.0
+EMP-00611,Employee_611,63,Marketing,Senior,PhD,Intern,2018-02-24,26,67785.99,14758.4,Average,7.0,78.0
+EMP-00559,Employee_559,44,Finance,Director,Master,Intern,2020-09-11,4,61225.74,7625.77,Below Average,1.7,79.0
+EMP-00179,Employee_179,51,Finance,Lead,,Contract,2015-03-15,20,109527.33,7361.7,Excellent,8.2,0.0
+EMP-00492,Employee_492,35,Engineering,Manager,PhD,Contract,2021-04-15,39,66836.13,10051.24,Poor,4.3,57.0
+EMP-00479,Employee_479,41,Support,VP,Master,Part-time,2016-03-19,3,97015.8,735.14,Average,3.2,26.0
+EMP-00691,Employee_691,50,Sales,Manager,High School,Full-time,2018-01-30,22,81860.01,1352.08,Below Average,1.1,0.0
+EMP-00310,Employee_310,38,Engineering,Manager,Bachelor,Full-time,2016-09-21,17,195438.82,59.25,Excellent,3.8,89.0
+EMP-00694,Employee_694,30,Engineering,Senior,,Part-time,2017-06-13,28,31398.78,4927.25,Excellent,9.2,87.0
+EMP-00931,Employee_931,46,Engineering,Junior,Bachelor,Full-time,2016-11-19,28,85640.9,13644.98,Excellent,,29.0
+EMP-01091,Employee_1091,42,Finance,VP,PhD,Contract,2018-07-31,29,54044.1,12020.76,Poor,3.7,84.0
+EMP-00644,Employee_644,49,Marketing,Lead,Bachelor,Intern,2021-04-21,0,48986.65,7851.15,Excellent,1.9,60.0
+EMP-00805,Employee_805,38,Legal,Manager,Master,Part-time,2018-06-17,25,110275.62,3234.64,Poor,9.6,
+EMP-01187,Employee_1187,41,Support,VP,Other,Contract,2022-11-24,3,34637.74,10085.3,Below Average,9.1,51.0
+EMP-00647,Employee_647,44,Engineering,Senior,Other,Full-time,2017-06-27,17,57725.51,14527.79,Poor,5.0,71.0
+EMP-00891,Employee_891,28,Finance,Junior,Bachelor,Contract,2017-03-23,6,40976.76,10783.19,Average,8.4,53.0
+EMP-00011,Employee_11,25,Support,Director,,Contract,2015-02-17,14,164824.264,2708.45,Average,,56.0
+EMP-00130,Employee_130,56,Sales,Senior,Bachelor,Intern,2015-03-30,5,105177.44,4409.94,Below Average,,97.0
+EMP-00988,Employee_988,24,HR,Manager,PhD,Intern,2021-08-18,30,112379.33,2486.28,Average,8.8,
+EMP-00087,Employee_87,35,Support,Manager,Other,Part-time,2015-01-04,13,31032.19,10346.34,Excellent,,45.0
+EMP-00319,Employee_319,26,HR,Director,PhD,Contract,2016-04-09,13,76760.25,3026.75,Poor,7.2,83.0
+EMP-00878,Employee_878,22,Finance,Lead,Other,Full-time,2017-02-25,22,117446.32,9763.76,Excellent,9.4,85.0
+EMP-00368,Employee_368,46,Marketing,Senior,High School,Contract,2018-06-11,26,"£67,685.87",6524.02,Excellent,7.3,
+EMP-00454,Employee_454,41,Sales,Lead,Master,Contract,2022-07-31,26,"£160,274.91",503.02,Excellent,4.5,16.0
+EMP-00622,Employee_622,40,Support,Lead,Other,Full-time,2017-02-07,6,121895.32,9747.76,Poor,3.2,85.0
+EMP-01095,Employee_1095,43,HR,VP,Other,Intern,2016-06-15,31,178580.97,12050.53,Poor,8.3,34.0
+EMP-01177,Employee_1177,28,Support,VP,Bachelor,Contract,2022-04-10,13,134239.97,7143.83,Poor,7.8,91.0
+EMP-00645,Employee_645,31,Support,Junior,PhD,Intern,2019-03-26,31,92566.83,1431.47,Poor,1.8,75.0
+EMP-00311,Employee_311,28,Engineering,Junior,Master,Full-time,2021-11-30,17,171281.09,11224.75,Below Average,4.1,15.0
+EMP-00320,Employee_320,32,Finance,Lead,Other,Full-time,2019-06-15,39,68922.85,5821.57,Good,9.2,40.0
+EMP-00227,Employee_227,48,Sales,Junior,Master,Part-time,2018-04-25,28,55033.52,4244.11,Poor,9.0,94.0
+EMP-00315,Employee_315,38,Engineering,Director,Bachelor,Intern,2022-03-26,5,41769.63,11494.65,Good,8.2,30.0
+EMP-00098,Employee_98,37,Operations,Junior,PhD,Intern,2018-05-07,23,167122.68,8534.26,Average,2.7,100.0
+EMP-00781,Employee_781,44,Legal,Manager,PhD,Full-time,2021-10-25,11,87928.1,153.71,Average,,86.0
+EMP-01033,Employee_1033,28,HR,Manager,Master,Intern,2020-05-30,35,129693.0,10178.17,Poor,4.1,86.0
+EMP-00441,Employee_441,28,Sales,Director,PhD,Contract,2016-05-10,4,84729.61,3638.04,Poor,4.8,49.0
+EMP-00548,Employee_548,26,Operations,Junior,PhD,Full-time,2022-05-20,4,134059.28,8092.73,Average,1.1,69.0
+EMP-00968,Employee_968,41,Marketing,Senior,High School,Contract,2015-04-20,18,172353.43,9756.9,Good,5.1,5.0
+EMP-00074,Employee_74,24,Operations,Manager,Master,Full-time,2019-03-18,29,89910.62299999999,14021.22,Poor,,20.0
+EMP-00267,Employee_267,37,Finance,VP,High School,Intern,2021-04-05,29,30483.48,8921.88,Good,1.5,72.0
+EMP-00557,Employee_557,43,Operations,Director,Other,Part-time,2021-08-09,36,59858.98,5466.18,Excellent,2.2,65.0
+EMP-00155,Employee_155,39,Support,Senior,PhD,Full-time,2022-09-30,33,84568.53,9755.1,Poor,1.9,12.0
+EMP-01140,Employee_1140,37,Finance,Lead,Other,Full-time,2018-09-11,25,79195.13,4843.63,Average,,2.0
+EMP-00382,Employee_382,43,Engineering,Lead,Other,Full-time,2022-03-22,14,68792.81,568.91,Average,3.4,89.0
+EMP-00675,Employee_675,38,Sales,Junior,High School,Part-time,2016-05-11,16,175711.65,4405.06,Good,1.3,82.0
+EMP-00211,Employee_211,42,Engineering,Junior,High School,Intern,2017-12-29,23,154446.08,8318.09,Good,7.4,13.0
+EMP-00006,Employee_6,23,HR,Lead,Other,Full-time,2019-05-13,29,140830.61,10286.6,Poor,7.7,68.0
+EMP-00164,Employee_164,28,HR,VP,,Intern,2015-01-18,2,90413.16,7371.2,Excellent,2.4,38.0
+EMP-00250,Employee_250,42,Marketing,Junior,,Part-time,2022-11-06,32,55248.03,35.85,Excellent,1.5,0.0
+EMP-00506,Employee_506,62,Engineering,Junior,High School,Full-time,2017-05-24,5,102255.93400000001,14806.61,Below Average,9.5,59.0
+EMP-00695,Employee_695,48,Marketing,Manager,PhD,Intern,2019-07-28,36,72135.75,12995.35,Good,6.0,4.0
+EMP-01047,Employee_1047,43,Support,VP,Other,Contract,2018-12-15,33,67763.96,14629.49,Poor,6.4,91.0
+EMP-00530,Employee_530,50,Legal,Junior,PhD,Intern,2021-03-05,31,57198.13,6665.1,Good,1.7,
+EMP-01100,Employee_1100,42,Operations,Lead,Bachelor,Intern,2020-04-09,0,108415.44,6221.7,Excellent,8.4,38.0
+EMP-00086,Employee_86,45,Engineering,Lead,High School,Contract,2018-10-10,11,196917.8,2222.0,Excellent,4.7,42.0
+EMP-00449,Employee_449,25,Marketing,Senior,PhD,Full-time,2016-12-20,25,127365.26,869.2,Good,1.7,76.0
+EMP-01109,Employee_1109,62,Support,Junior,Other,Contract,2016-01-03,9,106795.63,11732.39,Poor,7.4,50.0
+EMP-00073,Employee_73,52,Legal,Senior,Master,Full-time,2016-06-14,19,88366.11,10982.22,Poor,8.8,70.0
+EMP-00487,Employee_487,46,Finance,Director,High School,Intern,2021-06-17,20,146752.75,100000.0,,9.0,77.0
+EMP-00261,Employee_261,39,HR,Junior,High School,Part-time,2015-09-05,37,35974.81,78.81,Poor,9.7,23.0
+EMP-00428,Employee_428,36,Legal,Lead,High School,Part-time,2016-10-31,19,71425.13,12471.52,Average,7.7,28.0
+EMP-01028,Employee_1028,26,Marketing,VP,Bachelor,Full-time,2016-02-09,28,182501.68,1039.09,Average,4.0,48.0
+EMP-00304,Employee_304,43,Sales,Lead,Master,Full-time,2015-01-02,1,128532.55,6204.28,Good,5.3,39.0
+EMP-00352,Employee_352,54,HR,VP,Bachelor,Contract,2021-01-22,20,104135.35,8744.2,Excellent,7.2,27.0
+EMP-00729,Employee_729,38,HR,Manager,,Contract,2015-11-20,31,108929.12,9793.97,Below Average,5.6,52.0
+EMP-01097,Employee_1097,39,Engineering,Junior,High School,Intern,2017-01-17,18,35945.09,5019.32,Good,3.4,27.0
+EMP-00187,Employee_187,28,Sales,Senior,Master,Contract,2022-02-18,12,118631.95,1355.73,Average,1.2,36.0
+EMP-00450,Employee_450,54,HR,Lead,Bachelor,Intern,2015-10-23,18,113045.95,2974.37,Excellent,8.0,85.0
+EMP-00019,Employee_19,32,Marketing,Junior,,Full-time,2021-10-04,27,179978.23,1273.56,,6.7,83.0
+EMP-01129,Employee_1129,44,Support,Junior,Bachelor,Full-time,2019-09-06,3,31437.94,6521.45,Poor,8.5,26.0
+EMP-00349,Employee_349,46,Support,Lead,High School,Contract,2019-07-21,9,52804.88,14014.52,Poor,2.8,89.0
+EMP-00628,Employee_628,38,Finance,VP,Other,Full-time,2018-02-13,21,131001.25,10298.9,Good,6.3,8.0
+EMP-00137,Employee_137,47,HR,Junior,High School,Contract,2021-12-03,30,138883.01,3913.45,Good,3.6,99.0
+EMP-00068,Employee_68,41,Sales,Manager,PhD,Part-time,2016-11-26,15,162747.06,4452.27,Good,8.0,40.0
+EMP-00677,Employee_677,34,Sales,VP,PhD,Contract,2016-03-06,0,145997.81,6278.64,Good,7.3,19.0
+EMP-00205,Employee_205,22,Sales,Manager,Bachelor,Part-time,2021-06-18,0,117174.97,1351.94,Below Average,7.1,61.0
+EMP-00333,Employee_333,48,Finance,Manager,Other,Part-time,2017-12-22,27,49298.26,6603.44,Good,5.5,70.0
+EMP-00070,Employee_70,28,Engineering,Junior,PhD,Contract,2021-10-18,12,101494.75,10455.42,Average,5.6,80.0
+EMP-00253,Employee_253,26,Sales,Manager,Other,Part-time,2020-07-12,27,138720.41,14584.3,Below Average,8.7,87.0
+EMP-01038,Employee_1038,22,Operations,Manager,Other,Contract,2020-01-10,28,63891.81,9431.64,Good,8.5,81.0
+EMP-01031,Employee_1031,38,Operations,Senior,Bachelor,Intern,2020-03-26,30,190344.98,6046.42,Average,2.5,56.0
+EMP-01073,Employee_1073,26,Support,VP,High School,Part-time,2016-09-04,11,32625.67,2550.28,Excellent,3.0,26.0
+EMP-00663,Employee_663,42,Support,Senior,PhD,Full-time,2021-10-16,2,183714.11,324.09,Excellent,2.7,39.0
+EMP-00513,Employee_513,45,Finance,Senior,Other,Intern,2015-06-30,15,38269.04,11751.57,Below Average,2.1,66.0
+EMP-00189,Employee_189,39,Engineering,Manager,Bachelor,Intern,2016-03-18,29,183674.1,2805.7,Excellent,3.8,95.0
+EMP-01089,Employee_1089,35,HR,Director,PhD,Contract,2016-07-26,14,89141.9,3872.05,,7.7,45.0
+EMP-00374,Employee_374,38,HR,Senior,High School,Contract,2020-11-29,28,44534.28,11478.24,Average,6.1,49.0
+EMP-00099,Employee_99,49,Engineering,VP,Master,Full-time,2020-12-28,32,103039.62,7535.15,Below Average,2.4,1.0
+EMP-00537,Employee_537,57,Operations,Junior,PhD,Full-time,2018-09-17,21,149187.73,6605.46,Below Average,2.1,8.0
+EMP-00542,Employee_542,58,Finance,Director,PhD,Part-time,2017-05-22,1,191107.32,109.3,Below Average,3.1,
+EMP-00833,Employee_833,42,Engineering,Manager,PhD,Full-time,2015-01-28,32,56032.14,3282.45,Poor,9.6,24.0
+EMP-00241,Employee_241,36,Operations,Senior,Other,Contract,2021-10-06,24,93858.72,8801.86,Excellent,3.1,34.0
+EMP-01016,Employee_1016,49,Operations,Senior,High School,Intern,2021-05-31,29,36210.13,13035.68,Average,7.8,
+EMP-00178,Employee_178,39,Legal,Senior,Master,Part-time,2021-12-26,25,133182.34,2830.68,Poor,3.3,0.0
+EMP-00104,Employee_104,40,Operations,Manager,Other,Part-time,2017-05-17,21,109677.4,6654.37,Average,6.1,26.0
+EMP-00554,Employee_554,54,Operations,Lead,Bachelor,Intern,2021-02-18,6,63472.42,11386.19,Good,6.9,69.0
+EMP-00246,Employee_246,51,Marketing,Director,Other,Part-time,2019-03-11,35,85114.99,13800.38,Poor,3.1,52.0
+EMP-00457,Employee_457,47,Marketing,Director,High School,Intern,2015-06-30,24,41626.94,10600.08,Average,4.2,40.0
+EMP-00385,Employee_385,41,Engineering,Lead,High School,Part-time,2019-02-07,30,48229.51,4535.45,Below Average,3.6,41.0
+EMP-00786,Employee_786,52,HR,Lead,Bachelor,Intern,2019-08-07,9,173724.41,14088.92,Average,6.0,7.0
+EMP-01117,Employee_1117,37,Legal,VP,Master,Part-time,2022-01-15,21,190960.43,215.7,Below Average,4.8,64.0
+EMP-00908,Employee_908,38,Finance,Senior,High School,Part-time,2016-06-29,8,"£196,107.03",9280.63,Good,7.8,23.0
+EMP-00251,Employee_251,34,Legal,Manager,Other,Full-time,2020-05-10,35,161286.54,8353.98,Average,4.1,14.0
+EMP-00710,Employee_710,37,Support,Director,,Intern,2015-07-31,38,62089.599,11253.87,Good,4.2,58.0
+EMP-01070,Employee_1070,47,Operations,Junior,High School,Intern,2019-11-23,27,174969.21,10700.19,Good,8.1,27.0
+EMP-00762,Employee_762,56,Legal,Manager,High School,Part-time,2022-12-16,38,192366.1,7170.36,Good,1.7,41.0
+EMP-00709,Employee_709,53,Finance,VP,Other,Contract,2016-03-14,37,44653.6,8140.09,Below Average,9.7,26.0
+EMP-00682,Employee_682,52,Engineering,Senior,Bachelor,Full-time,2020-02-24,32,46763.75,11722.42,Excellent,6.8,50.0
+EMP-00976,Employee_976,43,Sales,Junior,PhD,Full-time,2021-12-17,20,66543.08,4311.92,Good,5.4,90.0
+EMP-00146,Employee_146,48,Legal,Director,Other,Contract,2018-05-31,32,190540.63,1203.46,Poor,1.9,60.0
+EMP-00712,Employee_712,31,Support,Director,Bachelor,Contract,2015-01-23,32,130171.41,3831.64,Average,2.7,28.0
+EMP-01009,Employee_1009,43,Finance,Lead,PhD,Full-time,2021-06-05,4,175081.45,5153.17,Below Average,8.1,67.0
+EMP-00069,Employee_69,23,Marketing,Lead,Master,Intern,2022-01-29,6,76953.43,7705.15,Good,9.1,47.0
+EMP-00705,Employee_705,25,Finance,VP,Bachelor,Part-time,2020-01-10,5,189217.38,4059.21,Below Average,2.7,
+EMP-00283,Employee_283,43,HR,Junior,Bachelor,Contract,2019-01-30,34,160488.34,14556.52,Average,2.7,96.0
+EMP-01191,Employee_1191,30,Sales,Senior,PhD,Full-time,2021-06-09,8,36811.86,13392.06,Below Average,3.9,50.0
+EMP-00845,Employee_845,36,Support,Junior,Master,Full-time,2022-08-16,20,103128.93,14756.05,Excellent,7.9,75.0
+EMP-00966,Employee_966,36,Support,Junior,Bachelor,Contract,2018-01-16,37,136267.7,14497.67,Poor,5.3,70.0
+EMP-00280,Employee_280,29,Operations,Junior,PhD,Contract,2018-12-18,0,57061.14,4896.6,Excellent,6.3,35.0
+EMP-00596,Employee_596,43,Finance,Junior,PhD,Intern,2021-10-09,1,43786.15,3628.83,Below Average,9.5,2.0
+EMP-00870,Employee_870,30,Operations,Junior,Master,Part-time,2020-09-11,38,72506.03,6276.12,Below Average,4.0,22.0
+EMP-01171,Employee_1171,60,Sales,Junior,PhD,Part-time,2023-01-28,8,42732.99,8085.21,Below Average,2.5,36.0
+EMP-00142,Employee_142,41,HR,Lead,Bachelor,Part-time,2020-10-07,10,116476.18,957.14,Below Average,9.6,70.0
+EMP-00655,Employee_655,58,Legal,Senior,Master,Part-time,2019-12-05,37,148342.74,5471.44,Poor,,76.0
+EMP-00785,Employee_785,37,Legal,Junior,Master,Full-time,2018-05-23,15,40506.04,12889.45,Excellent,8.1,7.0
+EMP-00477,Employee_477,29,Engineering,Senior,Other,Part-time,2022-01-22,37,56135.99,12396.75,Below Average,6.2,47.0
+EMP-00121,Employee_121,23,Operations,Director,,Intern,2023-02-22,20,110272.93,3476.87,Average,5.7,53.0
+EMP-01107,Employee_1107,29,Engineering,VP,High School,Intern,2021-10-12,9,46173.79,4006.94,Good,8.7,26.0
+EMP-00173,Employee_173,23,Marketing,Manager,High School,Full-time,2016-07-11,1,157286.75,7982.75,Excellent,6.5,20.0
+EMP-00305,Employee_305,44,Support,Manager,High School,Contract,2015-05-14,16,67757.81,7581.05,Average,2.7,84.0
+EMP-01069,Employee_1069,46,Operations,VP,Other,Intern,2021-06-23,22,134206.96,269.33,Poor,2.4,35.0
+EMP-01151,Employee_1151,40,Legal,Manager,Bachelor,Full-time,2015-07-25,39,79675.72,1031.69,,2.9,43.0
+EMP-00096,Employee_96,43,Marketing,Director,Other,Full-time,2021-11-20,35,184198.15,2964.44,Excellent,7.8,75.0
+EMP-01021,Employee_1021,43,Marketing,Senior,,Contract,2015-05-09,2,101916.95,12053.91,Average,8.8,71.0
+EMP-01027,Employee_1027,47,HR,Director,Bachelor,Contract,2022-03-10,18,118763.12,12478.14,Poor,5.3,54.0
+EMP-00459,Employee_459,42,Engineering,Director,High School,Contract,2022-11-20,22,124008.07,7575.99,Good,,87.0
+EMP-00389,Employee_389,32,Legal,Junior,Other,Intern,2017-05-30,34,75259.51,13093.85,Below Average,8.6,
+EMP-00648,Employee_648,55,Support,Director,Other,Intern,2015-12-08,26,134677.64,398.27,Good,6.7,19.0
+EMP-00197,Employee_197,42,Support,Junior,Master,Contract,2022-07-29,34,49185.62,208.29,Excellent,2.1,78.0
+EMP-00373,Employee_373,44,HR,VP,High School,Full-time,2019-10-22,31,63395.48,12793.03,Below Average,10.0,43.0
+EMP-00376,Employee_376,52,Engineering,Director,Other,Intern,2015-06-08,30,88922.0,13542.31,Poor,2.9,8.0
+EMP-00162,Employee_162,50,Legal,Manager,High School,Contract,2016-04-26,7,"£41,234.77",6044.86,Below Average,6.2,29.0
+EMP-01001,Employee_1001,31,Support,Senior,Other,Full-time,2021-07-13,39,116189.04,3863.8,,7.3,90.0
+EMP-00880,Employee_880,46,Legal,Junior,High School,Intern,2019-05-05,30,78558.12,1070.48,Below Average,8.9,43.0
+EMP-00883,Employee_883,63,Legal,Senior,High School,Intern,2017-01-01,26,59084.87,9854.34,Poor,3.8,43.0
+EMP-00317,Employee_317,58,Engineering,Junior,Bachelor,Full-time,2018-03-14,30,31775.62,3823.13,Excellent,3.0,37.0
+EMP-00300,Employee_300,52,Support,Senior,High School,Full-time,2020-02-23,36,143924.95,8456.19,Excellent,,44.0
+EMP-00365,Employee_365,40,Legal,Lead,Other,Part-time,2018-08-05,10,90329.63500000001,3917.82,Good,1.7,43.0
+EMP-01022,Employee_1022,61,Sales,Director,Master,Contract,2021-08-07,16,121632.56,8057.49,Average,2.9,32.0
+EMP-00835,Employee_835,58,HR,Lead,Bachelor,Part-time,2022-04-22,16,160708.8,6619.52,Good,,70.0
+EMP-00664,Employee_664,38,Support,VP,High School,Contract,2021-07-11,11,100950.04,10969.34,Average,2.6,92.0
+EMP-00526,Employee_526,22,Support,Lead,,Contract,2018-12-25,4,66577.24,12839.66,Below Average,7.2,6.0
+EMP-00888,Employee_888,47,Finance,Senior,Other,Intern,2022-07-08,27,151239.68,4898.68,Below Average,2.5,88.0
+EMP-01178,Employee_1178,43,Marketing,Lead,Bachelor,Full-time,2020-07-19,6,150434.22,4960.63,Below Average,6.1,66.0
+EMP-00930,Employee_930,43,Finance,Junior,Bachelor,Full-time,2022-10-12,24,191573.75,4026.01,Poor,8.9,53.0
+EMP-01172,Employee_1172,30,Marketing,Director,Bachelor,Full-time,2019-10-11,15,157338.09,1373.47,Excellent,8.4,36.0
+EMP-00410,Employee_410,28,Legal,Senior,Bachelor,Intern,2016-11-18,10,95857.55,8772.66,,6.2,85.0
+EMP-00032,Employee_32,47,Sales,Junior,PhD,Full-time,2018-03-05,3,41186.45,4942.56,Poor,2.1,32.0
+EMP-00581,Employee_581,39,Support,VP,Bachelor,Part-time,2021-08-15,13,91774.71,1636.51,Average,2.7,46.0
+EMP-01159,Employee_1159,50,Finance,Lead,Master,Intern,2015-08-29,12,131758.242,8616.26,,2.9,54.0
+EMP-00587,Employee_587,64,Support,Director,High School,Full-time,2019-10-08,3,187185.67,10328.96,Poor,4.6,54.0
+EMP-00016,Employee_16,28,Sales,Director,Bachelor,Full-time,2015-04-22,13,197573.17,1872.35,,4.4,37.0
+EMP-00776,Employee_776,44,Legal,Manager,Other,Intern,2017-01-30,29,142422.27,5036.43,Below Average,5.7,41.0
+EMP-00760,Employee_760,50,Finance,VP,High School,Full-time,2021-06-30,13,124947.0,14178.62,Good,7.8,41.0
+EMP-00678,Employee_678,29,Finance,Lead,Bachelor,Part-time,2019-03-20,35,30787.53,724.82,Good,7.6,16.0
+EMP-00308,Employee_308,48,Legal,Senior,Master,Intern,2020-09-04,9,86114.82,468.1,,2.8,12.0
+EMP-01041,Employee_1041,52,Legal,Manager,Master,Part-time,2021-04-18,31,193023.96,8757.21,Average,9.9,
+EMP-00600,Employee_600,25,Support,Senior,PhD,Full-time,2016-05-21,3,169201.96,5664.16,Below Average,1.5,77.0
+EMP-00525,Employee_525,22,Operations,Manager,Master,Intern,2015-10-16,12,101024.7,3476.34,Excellent,,42.0
+EMP-00842,Employee_842,41,Legal,Junior,,Intern,2023-03-14,24,179949.2,2835.36,Below Average,3.9,48.0
+EMP-01020,Employee_1020,39,Engineering,Director,High School,Part-time,2021-11-08,25,154939.21,14839.36,Good,2.2,77.0
+EMP-00085,Employee_85,56,Marketing,Lead,High School,Contract,2019-02-22,26,48388.96,9745.35,Excellent,1.2,31.0
+EMP-00566,Employee_566,36,HR,Director,Master,Intern,2017-10-27,1,124600.33,2402.45,Average,3.6,35.0
+EMP-00864,Employee_864,28,Support,Junior,Other,Full-time,2021-01-31,16,182419.83,318.87,Average,3.2,53.0
+EMP-00281,Employee_281,50,Marketing,Senior,Other,Part-time,2020-03-05,12,144340.02,4227.76,Excellent,1.5,59.0
+EMP-00230,Employee_230,27,HR,Junior,PhD,Full-time,2018-03-06,30,155274.44,14375.37,Below Average,2.4,52.0
+EMP-01094,Employee_1094,59,Legal,Junior,High School,Intern,2020-04-21,14,43831.63,14747.34,Good,1.3,47.0
+EMP-00183,Employee_183,39,Engineering,Director,PhD,Contract,2018-12-05,26,152929.26,10089.78,Excellent,3.3,68.0
+EMP-01077,Employee_1077,35,Sales,VP,Other,Part-time,2017-04-28,15,38418.09,7311.98,Excellent,5.2,65.0
+EMP-00044,Employee_44,29,Operations,Director,Other,Part-time,2015-04-17,18,61537.58,2122.46,Excellent,6.0,95.0
+EMP-00832,Employee_832,42,Marketing,VP,Other,Part-time,2018-09-10,36,150278.92,9415.07,Excellent,1.3,56.0
+EMP-00290,Employee_290,45,Support,Director,PhD,Contract,2022-10-09,16,182477.27,2099.84,,1.3,94.0
+EMP-00543,Employee_543,48,HR,Director,Master,Intern,2016-02-21,13,89661.72,1271.25,Below Average,5.6,
+EMP-00728,Employee_728,23,Marketing,VP,Other,Full-time,2020-07-25,15,73022.4,1017.61,Average,1.6,83.0
+EMP-00363,Employee_363,44,Legal,VP,Bachelor,Contract,2023-03-19,39,110755.89,10242.73,Below Average,9.1,73.0
+EMP-00185,Employee_185,39,Legal,Manager,PhD,Full-time,2021-11-12,29,108155.92,7519.39,Good,7.2,7.0
+EMP-00679,Employee_679,38,HR,Junior,Master,Intern,2019-07-24,31,185931.39,1868.31,,6.4,
+EMP-00120,Employee_120,34,Support,VP,PhD,Contract,2017-04-16,17,42009.67,14296.46,Excellent,1.1,18.0
+EMP-00743,Employee_743,31,Operations,Director,High School,Intern,2016-04-06,37,66322.69,134.31,,5.2,38.0
+EMP-01139,Employee_1139,54,Support,Lead,PhD,Contract,2017-10-18,2,124739.17,9404.62,Excellent,5.6,
+EMP-01193,Employee_1193,28,Legal,Lead,Bachelor,Part-time,2022-07-07,31,"£96,416.58",12614.18,Below Average,3.4,51.0
+EMP-00397,Employee_397,49,Sales,Manager,Other,Part-time,2015-03-31,26,82839.83,3610.46,Average,7.3,56.0
+EMP-00933,Employee_933,49,HR,VP,Bachelor,Contract,2019-04-12,22,169673.25,6180.48,Average,6.6,22.0
+EMP-00045,Employee_45,48,Finance,Senior,High School,Part-time,2017-04-17,9,167156.77,2657.09,Poor,4.0,68.0
+EMP-00629,Employee_629,50,Operations,VP,Bachelor,Part-time,2020-06-15,9,123711.15,8024.65,Below Average,9.8,5.0
+EMP-00915,Employee_915,39,HR,Junior,Master,Contract,2015-04-10,1,141430.77,7982.05,Poor,6.7,5.0
+EMP-00909,Employee_909,47,HR,VP,Other,Contract,2022-04-24,20,128614.61,12488.19,Poor,6.4,62.0
+EMP-00917,Employee_917,40,Support,VP,Bachelor,Intern,2017-01-21,7,168216.71,9630.35,Poor,3.1,80.0
+EMP-00583,Employee_583,35,HR,Director,PhD,Full-time,2018-12-09,25,153338.1,14621.41,Average,7.6,89.0
+EMP-00199,Employee_199,55,Engineering,Director,Bachelor,Full-time,2021-10-16,20,141677.43,100000.0,Good,2.3,42.0
+EMP-00815,Employee_815,35,Engineering,Director,PhD,Intern,2020-02-24,29,"£197,116.88",8388.28,Below Average,8.1,9.0
+EMP-01068,Employee_1068,38,Marketing,VP,Master,Intern,2019-06-30,14,198584.84,14083.39,Poor,8.9,32.0
+EMP-00400,Employee_400,60,Operations,Manager,Master,Contract,2018-07-25,22,40971.04,100000.0,Average,7.2,32.0
+EMP-00393,Employee_393,55,Operations,Manager,Bachelor,Full-time,2018-05-20,31,107070.44,2414.7,Below Average,6.8,73.0
+EMP-00500,Employee_500,36,Finance,VP,Master,Contract,2020-12-06,25,177313.35,1811.75,Good,8.0,42.0
+EMP-01110,Employee_1110,37,Finance,Manager,Master,Contract,2022-09-18,39,55270.74,13928.53,Average,9.7,20.0
+EMP-01024,Employee_1024,33,Support,Senior,Other,Contract,2021-03-10,15,"£177,546.40",11583.26,Excellent,3.2,16.0
+EMP-00201,Employee_201,37,HR,Manager,PhD,Contract,2017-05-05,21,185798.41,7020.24,Good,4.0,17.0
+EMP-00877,Employee_877,41,Finance,Manager,Bachelor,Full-time,2021-03-17,28,45876.0,8647.0,Below Average,3.2,20.0
+EMP-00347,Employee_347,42,Finance,Manager,Other,Part-time,2022-02-24,16,44402.22,2282.33,Below Average,8.1,100.0
+EMP-00279,Employee_279,48,Sales,VP,PhD,Part-time,2016-06-28,32,193572.22,3703.78,Poor,2.6,64.0
+EMP-00051,Employee_51,46,Sales,Lead,Bachelor,Contract,2019-10-08,5,58345.15,3324.81,,2.6,75.0
+EMP-00750,Employee_750,54,Finance,Junior,Master,Contract,2022-01-28,28,"£104,701.81",7501.47,Poor,,20.0
+EMP-00612,Employee_612,64,Sales,Lead,Bachelor,Intern,2015-08-02,18,156165.25,10648.16,Excellent,7.4,64.0
+EMP-00947,Employee_947,41,Finance,Manager,High School,Contract,2018-02-23,33,80813.76,2296.51,Excellent,1.9,74.0
+EMP-00252,Employee_252,48,Sales,Junior,Other,Contract,2016-08-27,30,179271.2,4335.4,Average,,18.0
+EMP-00773,Employee_773,43,Support,VP,PhD,Part-time,2020-10-28,18,47643.65,11580.06,Excellent,,1.0
+EMP-00747,Employee_747,52,HR,Lead,Master,Full-time,2018-12-02,24,115933.08,8271.24,Excellent,5.4,58.0
+EMP-00586,Employee_586,28,Support,VP,Bachelor,Intern,2015-02-04,33,69831.76,10274.07,Poor,4.1,39.0
+EMP-00634,Employee_634,50,Marketing,Director,,Part-time,2022-06-16,30,166078.91,10729.58,Below Average,4.8,51.0
+EMP-00916,Employee_916,45,Operations,Director,Bachelor,Part-time,2019-12-09,0,199672.74,7004.33,Below Average,7.8,64.0
+EMP-00422,Employee_422,48,HR,Junior,Master,Intern,2018-05-06,6,111414.09,4527.54,Below Average,5.9,94.0
+EMP-00388,Employee_388,23,Legal,Senior,,Full-time,2021-05-30,36,77682.06,6025.08,Below Average,9.0,36.0
+EMP-00667,Employee_667,64,HR,Lead,Other,Full-time,2016-06-23,37,164090.21,75000.0,Average,2.5,33.0
+EMP-00765,Employee_765,46,Marketing,Junior,High School,Contract,2018-01-20,16,94163.93,981.6,Poor,8.3,33.0
+EMP-00924,Employee_924,27,Finance,Senior,Bachelor,Full-time,2015-04-01,19,184547.05,1895.62,Excellent,6.6,63.0
+EMP-01196,Employee_1196,23,Marketing,VP,High School,Intern,2022-03-17,35,88064.47,5852.72,Poor,7.3,46.0
+EMP-00353,Employee_353,33,Support,VP,PhD,Intern,2017-05-01,19,55092.49,11406.38,Below Average,5.3,73.0
+EMP-00245,Employee_245,39,HR,Senior,Master,Part-time,2019-02-22,28,153392.05,3046.44,,6.2,41.0
+EMP-00337,Employee_337,33,Legal,VP,Other,Full-time,2015-12-28,31,166619.89,4629.96,Good,5.3,5.0
+EMP-00110,Employee_110,35,Marketing,Junior,High School,Intern,2019-07-28,31,66631.85,11057.97,,6.4,68.0
+EMP-00862,Employee_862,54,HR,VP,High School,Full-time,2016-07-24,39,102705.22,7371.76,Average,7.8,4.0
+EMP-01064,Employee_1064,46,Legal,Junior,High School,Intern,2021-09-28,20,39416.22,4683.48,Average,1.4,79.0
+EMP-00672,Employee_672,29,Marketing,Senior,,Contract,2017-05-19,27,81258.62,13786.99,Below Average,3.4,70.0
+EMP-00010,Employee_10,22,Marketing,Manager,,Full-time,2022-05-10,34,101763.88,12283.77,Good,2.8,33.0
+EMP-00873,Employee_873,34,Legal,Senior,Master,Contract,2015-12-09,6,113564.8,4286.17,Good,5.8,26.0
+EMP-00429,Employee_429,29,Operations,Senior,Other,Full-time,2022-10-09,27,193453.93,4411.35,Excellent,2.2,97.0
+EMP-00158,Employee_158,53,Legal,Lead,Master,Part-time,2019-11-19,12,66547.34,3773.94,Good,9.2,80.0
+EMP-00148,Employee_148,31,Finance,VP,Master,Full-time,2016-07-06,13,63598.53,7835.0,Below Average,2.4,36.0
+EMP-01006,Employee_1006,37,Legal,Junior,High School,Intern,2017-02-22,6,91542.96,5630.53,Excellent,5.9,20.0
+EMP-00066,Employee_66,42,Engineering,Junior,PhD,Full-time,2016-07-09,13,112029.61,10761.97,Below Average,8.0,1.0
+EMP-00191,Employee_191,46,HR,Manager,,Intern,2015-10-09,12,154234.97,3186.74,Excellent,5.1,74.0
+EMP-00244,Employee_244,22,Engineering,VP,High School,Full-time,2021-01-25,2,171960.95,13885.13,Good,3.1,71.0
+EMP-00307,Employee_307,36,Support,VP,Bachelor,Full-time,2022-03-22,1,194676.48,7977.01,Poor,1.2,14.0
+EMP-00561,Employee_561,37,HR,Senior,PhD,Intern,2017-06-23,28,111779.37,12376.41,Excellent,5.2,5.0
+EMP-00008,Employee_8,43,Sales,Director,PhD,Intern,2015-04-07,28,156946.51,9414.5,Below Average,,
+EMP-00113,Employee_113,38,Support,Senior,High School,Part-time,2018-01-15,36,160576.06,13026.23,,7.3,78.0
+EMP-00818,Employee_818,37,HR,Lead,,Part-time,2019-12-17,0,61946.65,8374.62,Excellent,6.0,99.0
+EMP-00132,Employee_132,57,Support,Senior,Other,Contract,2016-02-17,32,194166.88,11551.89,Below Average,6.6,30.0
+EMP-00295,Employee_295,47,Legal,Manager,PhD,Part-time,2021-12-18,34,86502.43,9045.41,Poor,6.7,27.0
+EMP-00836,Employee_836,61,HR,Junior,Bachelor,Full-time,2016-04-25,19,150156.93,12722.51,,,48.0
+EMP-00165,Employee_165,41,Operations,VP,High School,Contract,2018-01-17,18,104345.58,5152.33,,2.4,46.0
+EMP-00942,Employee_942,41,Sales,Manager,Other,Part-time,2023-01-03,2,191836.42,11241.53,Poor,6.7,32.0
+EMP-00949,Employee_949,30,Finance,Manager,PhD,Part-time,2022-05-15,16,129334.48,11936.66,Excellent,4.7,87.0
+EMP-00855,Employee_855,30,Finance,VP,Bachelor,Contract,2015-08-20,30,46084.96,13261.58,Average,8.3,71.0
+EMP-00236,Employee_236,52,Support,Senior,PhD,Full-time,2022-01-11,30,41309.84,5951.63,Poor,4.9,33.0
+EMP-00306,Employee_306,31,Legal,Manager,High School,Part-time,2021-08-06,11,"£174,943.51",9961.33,Good,4.0,74.0
+EMP-00711,Employee_711,31,Finance,Junior,High School,Contract,2016-05-20,0,90269.12,1655.99,Poor,8.2,25.0
+EMP-01062,Employee_1062,50,Operations,VP,High School,Contract,2022-01-31,3,190220.28,11455.31,Excellent,1.3,
+EMP-00713,Employee_713,53,Support,Senior,High School,Full-time,2022-02-12,37,123407.76,10377.34,Excellent,6.9,14.0
+EMP-00939,Employee_939,23,Marketing,Lead,High School,Contract,2017-07-21,29,54925.95,14518.56,Average,5.6,77.0
+EMP-00125,Employee_125,42,Operations,Lead,Other,Contract,2017-02-05,20,48019.19,11415.27,Good,1.4,69.0
+EMP-00671,Employee_671,50,Operations,Senior,Bachelor,Contract,2019-11-19,25,157466.22,5923.1,Average,2.8,91.0
+EMP-00547,Employee_547,53,Engineering,Junior,Bachelor,Intern,2018-02-20,38,39568.81,5022.76,Average,1.3,20.0
+EMP-00660,Employee_660,28,Operations,Lead,PhD,Intern,2020-01-11,25,67093.0,7128.18,Average,,42.0
+EMP-00950,Employee_950,24,HR,Lead,Master,Part-time,2018-12-15,3,199187.81,357.3,Poor,4.7,95.0
+EMP-00177,Employee_177,28,Support,Manager,High School,Contract,2016-11-17,5,"£32,533.32",11798.47,Average,4.0,48.0
+EMP-00572,Employee_572,41,HR,Director,Other,Intern,2018-03-07,23,111827.3,10038.22,Poor,8.8,82.0
+EMP-00718,Employee_718,37,Marketing,VP,,Intern,2017-10-22,24,53917.95,6132.58,Good,7.9,10.0
+EMP-00091,Employee_91,60,HR,Senior,PhD,Intern,2015-09-20,24,193691.95,6575.53,Poor,3.9,49.0
+EMP-00327,Employee_327,43,Operations,Junior,PhD,Contract,2016-09-17,35,135442.9,12973.27,Poor,9.3,37.0
+EMP-00938,Employee_938,61,Support,Senior,Other,Full-time,2018-08-22,23,54901.18,14883.76,Below Average,8.8,4.0
+EMP-00058,Employee_58,52,Support,Director,High School,Contract,2016-01-07,34,183303.78,14000.74,,2.9,73.0
+EMP-00041,Employee_41,28,Support,Lead,Other,Contract,2020-07-10,28,133082.12,13918.34,Average,7.6,75.0
+EMP-00419,Employee_419,46,HR,VP,Bachelor,Intern,2020-06-12,24,193864.89,10386.78,Poor,9.1,78.0
+EMP-00293,Employee_293,40,Support,VP,,Part-time,2020-07-02,34,84416.41,6841.68,Excellent,7.6,49.0
+EMP-00268,Employee_268,30,Legal,VP,PhD,Intern,2018-02-24,24,"£176,049.36",13717.79,Average,1.9,46.0
+EMP-00937,Employee_937,37,Legal,Senior,PhD,Part-time,2020-04-12,6,146461.5,13515.27,Poor,,58.0
+EMP-00953,Employee_953,53,HR,Lead,Master,Intern,2018-06-21,25,124584.74,9400.52,Good,5.9,69.0
+EMP-01149,Employee_1149,41,Finance,VP,Other,Intern,2015-06-15,37,134513.51,6154.75,Average,8.9,78.0
+EMP-00592,Employee_592,42,Legal,Junior,Other,Contract,2015-11-26,10,137620.5,8111.39,Excellent,7.3,98.0
+EMP-00393,Employee_393,55,Operations,Manager,Bachelor,Full-time,2018-05-20,31,117777.48400000001,2414.7,Below Average,6.8,73.0
+EMP-00131,Employee_131,30,Legal,Manager,Master,Intern,2020-06-13,23,146582.53,11657.75,,2.3,73.0
+EMP-00111,Employee_111,40,Marketing,Manager,Master,Part-time,2021-08-05,20,49864.2,10773.3,Average,6.5,20.0
+EMP-00618,Employee_618,32,Engineering,Lead,PhD,Part-time,2017-11-28,22,131504.16,12420.14,Excellent,9.9,39.0
+EMP-00034,Employee_34,38,Finance,Lead,Master,Contract,2015-04-10,32,65998.52,1493.8,Good,9.9,39.0
+EMP-00038,Employee_38,48,Support,Director,Master,Intern,2017-05-12,33,42778.681000000004,7307.04,Average,7.5,88.0
+EMP-00615,Employee_615,23,Engineering,Senior,PhD,Full-time,2016-12-04,20,96160.59,210.74,Poor,3.3,54.0
+EMP-00851,Employee_851,53,Engineering,Senior,High School,Full-time,2018-11-22,27,76427.54,8373.21,Average,9.5,93.0
+EMP-00209,Employee_209,39,Legal,Director,Bachelor,Full-time,2017-09-24,17,191342.1,4615.14,Below Average,5.7,14.0
+EMP-00115,Employee_115,59,Legal,Director,Bachelor,Intern,2015-09-29,24,157784.89,10055.24,Good,1.4,10.0
+EMP-00684,Employee_684,57,Operations,VP,PhD,Contract,2022-01-18,18,94050.73,12192.33,Excellent,9.7,69.0
+EMP-00981,Employee_981,24,HR,Junior,Other,Full-time,2016-05-25,19,159654.22,315.08,Excellent,1.5,69.0
+EMP-00430,Employee_430,28,Finance,Lead,Other,Contract,2018-08-19,0,33169.36,6551.7,Average,9.0,78.0
+EMP-01124,Employee_1124,30,HR,Lead,Other,Part-time,2017-08-20,7,33143.27,8934.88,Below Average,7.9,58.0
+EMP-00213,Employee_213,41,Legal,Manager,,Part-time,2018-05-16,29,198047.07,8877.71,Good,2.3,
+EMP-00053,Employee_53,34,Operations,Lead,Other,Part-time,2021-12-07,18,184420.07,7170.66,Poor,5.5,50.0
+EMP-01013,Employee_1013,25,Legal,Director,Bachelor,Contract,2023-01-11,38,151560.4,11124.71,Good,8.9,88.0
+EMP-00689,Employee_689,40,Legal,Senior,High School,Intern,2022-02-12,33,194100.47,14428.05,Good,3.9,11.0
+EMP-01071,Employee_1071,38,Support,Lead,PhD,Intern,2017-09-06,36,133779.96,12528.8,Good,4.7,62.0
+EMP-00042,Employee_42,45,Engineering,Lead,Bachelor,Full-time,2016-08-11,18,74245.55,1978.37,Poor,3.6,58.0
+EMP-00301,Employee_301,45,HR,Lead,Bachelor,Full-time,2020-02-19,8,86459.52,6830.16,Excellent,6.4,62.0
+EMP-00395,Employee_395,47,Finance,Junior,Other,Full-time,2015-04-24,16,197165.08,14588.56,Poor,5.1,36.0
+EMP-01106,Employee_1106,37,Marketing,Lead,PhD,Intern,2020-11-01,39,162159.64,13426.96,Good,8.5,86.0
+EMP-01096,Employee_1096,32,Sales,Manager,Master,Full-time,2021-03-25,15,67656.14,934.53,Poor,6.1,51.0
+EMP-00377,Employee_377,57,Finance,Junior,PhD,Full-time,2022-07-10,32,103490.74,12628.33,,8.4,81.0
+EMP-01137,Employee_1137,25,Support,Lead,Bachelor,Contract,2019-10-19,6,134964.95,2360.15,Good,1.7,69.0
+EMP-00262,Employee_262,34,Support,VP,PhD,Contract,2022-11-18,6,75907.81,11426.84,Excellent,8.0,8.0
+EMP-00498,Employee_498,23,Finance,Junior,High School,Full-time,2018-06-12,27,134829.45,4029.76,Below Average,4.4,71.0
+EMP-01010,Employee_1010,36,Finance,Lead,Other,Full-time,2022-05-31,39,175672.58,9037.83,Good,7.1,83.0
+EMP-00562,Employee_562,32,Marketing,VP,Bachelor,Part-time,2018-01-09,39,152046.25,2128.03,Excellent,7.9,8.0
+EMP-00690,Employee_690,53,Legal,Junior,Master,Full-time,2020-04-19,22,99285.33,6826.57,Good,5.9,29.0
+EMP-00170,Employee_170,24,Finance,Junior,Other,Contract,2018-02-28,20,66092.82,7375.93,Poor,9.3,35.0
+EMP-00733,Employee_733,35,HR,Director,,Contract,2015-03-12,1,187938.95,12535.79,Below Average,8.0,22.0
+EMP-00759,Employee_759,50,Support,Junior,PhD,Part-time,2021-10-03,7,152139.27,1888.04,Average,1.2,6.0
+EMP-00473,Employee_473,29,Engineering,Junior,High School,Full-time,2023-03-19,36,45593.71,993.57,Excellent,4.1,
+EMP-00275,Employee_275,31,Support,Senior,PhD,Full-time,2018-05-27,5,51367.13,10820.24,Excellent,8.0,78.0
+EMP-01122,Employee_1122,43,Legal,VP,Other,Full-time,2019-02-21,32,65540.9,8209.76,Below Average,3.0,89.0
+EMP-00892,Employee_892,35,Sales,Senior,Other,Part-time,2015-02-11,8,65664.81,8084.37,Good,,
+EMP-00318,Employee_318,52,Finance,Manager,Bachelor,Part-time,2021-10-23,36,176970.34,9342.8,,8.3,65.0
+EMP-01169,Employee_1169,46,Legal,Lead,Other,Part-time,2017-12-27,1,65294.12,12013.27,Average,9.8,32.0
+EMP-00524,Employee_524,43,Engineering,Lead,Other,Part-time,2019-11-28,37,167782.32,4634.51,Good,9.8,76.0
+EMP-00799,Employee_799,43,Sales,Director,Other,Intern,2017-05-12,3,72425.44,9716.66,Excellent,2.1,19.0
+EMP-00580,Employee_580,55,Operations,Manager,PhD,Contract,2015-10-15,35,140192.97,50000.0,Excellent,9.1,60.0
+EMP-00683,Employee_683,38,Finance,Lead,Master,Intern,2017-07-31,0,51245.51,2363.79,Good,7.7,82.0
+EMP-00638,Employee_638,63,Engineering,VP,,Part-time,2017-12-24,38,47258.11,9396.0,Excellent,9.7,77.0
+EMP-00292,Employee_292,39,Operations,Lead,High School,Contract,2015-02-23,18,170423.37,14092.53,Average,8.6,10.0
+EMP-00850,Employee_850,61,Marketing,VP,Bachelor,Contract,2023-02-15,4,164566.01,7960.07,Below Average,3.4,90.0
+EMP-00894,Employee_894,58,Finance,Junior,Bachelor,Full-time,2018-03-21,26,115259.6,11343.62,Below Average,4.3,88.0
+EMP-00735,Employee_735,26,Marketing,Lead,Other,Contract,2018-12-02,17,155609.93,9923.83,Excellent,3.1,55.0
+EMP-00049,Employee_49,31,Marketing,VP,Master,Part-time,2017-04-06,3,58529.22,14417.01,Poor,,31.0
+EMP-01120,Employee_1120,41,Legal,Manager,High School,Full-time,2020-02-14,29,35717.28,2066.86,Poor,8.2,52.0
+EMP-00407,Employee_407,45,Support,Lead,Other,Contract,2022-08-27,29,137100.54,4988.0,,6.3,19.0
+EMP-00779,Employee_779,36,Sales,VP,Bachelor,Part-time,2021-01-01,38,44172.66,9243.97,Below Average,7.8,59.0
+EMP-00512,Employee_512,42,Support,Junior,Bachelor,Intern,2018-06-12,10,94471.56,13911.22,Excellent,2.2,92.0
+EMP-00569,Employee_569,25,Sales,Junior,PhD,Part-time,2022-08-20,0,178133.05,849.99,Average,1.7,40.0
+EMP-00346,Employee_346,26,Marketing,VP,High School,Full-time,2020-06-13,17,125847.13,9758.42,Poor,4.0,46.0
+EMP-00957,Employee_957,28,Support,Lead,High School,Contract,2021-05-30,32,129718.44,10142.91,Below Average,6.4,38.0
+EMP-01067,Employee_1067,53,Marketing,Lead,Master,Intern,2019-02-09,38,97042.65,11679.28,Below Average,,38.0
+EMP-00970,Employee_970,22,Engineering,Manager,Other,Contract,2021-08-07,17,36671.32,1496.03,Poor,1.1,69.0
+EMP-00247,Employee_247,46,Marketing,Manager,Bachelor,Full-time,2021-03-13,4,178717.01,14918.26,Good,5.3,14.0
+EMP-00749,Employee_749,36,Marketing,Lead,Master,Part-time,2021-04-03,8,165341.64,1077.19,Excellent,6.3,98.0
+EMP-00418,Employee_418,43,HR,Junior,Other,Intern,2018-01-05,8,176596.59,9066.14,Average,3.6,21.0
+EMP-00715,Employee_715,43,Sales,Lead,High School,Part-time,2015-03-13,39,85271.56,12826.19,Good,1.2,32.0
+EMP-00103,Employee_103,42,Engineering,Junior,High School,Full-time,2020-03-17,20,109465.77,297.47,Below Average,9.4,43.0
+EMP-00309,Employee_309,60,Support,Senior,High School,Contract,2016-09-01,7,128057.62,7372.49,,8.3,88.0
+EMP-01128,Employee_1128,39,Sales,Director,High School,Part-time,2018-12-18,18,181971.26,3203.46,Below Average,5.6,78.0
+EMP-00005,Employee_5,48,Support,Lead,Bachelor,Full-time,2018-02-21,18,187298.98,10726.83,,5.1,42.0
+EMP-01054,Employee_1054,34,HR,Manager,PhD,Full-time,2016-11-25,34,"£145,857.46",13535.52,Below Average,5.4,97.0
+EMP-00302,Employee_302,36,Sales,Director,PhD,Contract,2017-06-05,9,"£81,246.52",12403.68,Below Average,3.4,34.0
+EMP-01157,Employee_1157,39,Finance,Lead,PhD,Contract,2018-01-10,9,159380.22,14770.47,Poor,4.3,84.0
+EMP-00905,Employee_905,27,Finance,Junior,PhD,Contract,2022-02-28,37,124438.88,1031.39,Excellent,3.8,21.0
+EMP-00299,Employee_299,32,HR,Junior,PhD,Intern,2016-08-06,23,90646.13,3793.01,Good,7.1,32.0
+EMP-00726,Employee_726,36,Support,Manager,Other,Contract,2021-01-16,37,89756.53,6340.45,Good,,79.0
+EMP-00274,Employee_274,36,Legal,Director,Other,Contract,2022-08-31,2,97776.5,8325.77,Good,4.9,54.0
+EMP-00722,Employee_722,26,Legal,Lead,Master,Contract,2021-04-09,25,118068.43,13195.7,Average,7.1,21.0
+EMP-00316,Employee_316,39,Marketing,Manager,Bachelor,Contract,2016-02-10,21,62653.63,507.71,Average,4.7,89.0
+EMP-00544,Employee_544,34,Legal,Director,Bachelor,Part-time,2022-02-20,17,134898.96,11513.51,Below Average,6.5,67.0
+EMP-00458,Employee_458,49,Legal,Senior,Bachelor,Part-time,2022-09-20,16,33292.47,5214.19,Average,9.6,40.0
+EMP-00109,Employee_109,58,Marketing,Senior,,Contract,2015-01-17,31,132209.78,8860.97,Good,7.4,39.0
+EMP-00328,Employee_328,45,Marketing,Lead,PhD,Intern,2016-10-02,31,178030.61,5311.18,Excellent,2.6,16.0
+EMP-00871,Employee_871,22,Engineering,VP,PhD,Part-time,2016-09-11,32,182092.43,2521.72,Excellent,2.1,13.0
+EMP-00518,Employee_518,37,Finance,VP,Bachelor,Full-time,2023-02-12,0,140416.92,9425.24,Excellent,4.3,43.0
+EMP-00774,Employee_774,58,Marketing,Director,Master,Part-time,2020-04-28,5,160954.45,9521.06,Below Average,4.4,44.0
+EMP-00913,Employee_913,40,Operations,Senior,PhD,Part-time,2016-03-01,5,70257.61,3101.98,Poor,2.1,12.0
+EMP-00314,Employee_314,41,Support,VP,Bachelor,Part-time,2018-12-08,10,125658.75,6055.42,Below Average,3.0,9.0
+EMP-00453,Employee_453,51,Legal,Junior,PhD,Contract,2020-08-08,34,138467.71,10294.93,,7.0,12.0
+EMP-00067,Employee_67,45,HR,Junior,High School,Intern,2018-10-13,0,138232.53,6075.24,Average,2.1,31.0
+EMP-00176,Employee_176,37,Operations,Senior,High School,Part-time,2021-11-28,39,102978.38,3066.18,Poor,7.6,31.0
+EMP-01185,Employee_1185,36,Marketing,Manager,PhD,Full-time,2018-12-04,7,167383.22,8638.71,Good,2.4,67.0
+EMP-00056,Employee_56,27,Sales,Manager,Other,Intern,2021-01-15,11,33490.42,7120.19,Average,8.4,14.0
+EMP-00591,Employee_591,53,Engineering,Manager,Master,Contract,2021-07-25,13,60735.97,10821.22,Excellent,6.1,20.0
+EMP-00029,Employee_29,50,Engineering,Director,,Part-time,2019-05-03,6,115538.92,42.11,Average,1.7,20.0
+EMP-00724,Employee_724,50,Engineering,Junior,Other,Part-time,2018-07-12,1,84407.45,4072.27,Below Average,7.7,54.0
+EMP-00167,Employee_167,42,Finance,VP,,Full-time,2015-07-17,38,194470.38,96.0,Excellent,4.9,37.0
+EMP-00625,Employee_625,52,Operations,Manager,Bachelor,Part-time,2019-04-05,32,176663.1,6768.61,Good,6.0,
+EMP-00822,Employee_822,48,Sales,Manager,Other,Part-time,2022-10-21,22,134291.55,10015.42,Good,6.0,
+EMP-00276,Employee_276,42,Legal,Director,PhD,Intern,2017-06-04,14,173921.74,3896.99,Poor,4.0,41.0
+EMP-00529,Employee_529,28,Legal,Director,Bachelor,Full-time,2017-02-27,26,140604.51,2335.45,Average,7.1,34.0
+EMP-00699,Employee_699,45,HR,Director,PhD,Contract,2018-03-18,35,34476.68,5305.11,,7.0,41.0
+EMP-00345,Employee_345,42,Support,Manager,Master,Contract,2021-04-08,32,60057.43,9462.09,Good,8.4,94.0
+EMP-00716,Employee_716,33,HR,Junior,Other,Intern,2016-04-15,6,88439.05,9113.03,Average,5.0,92.0
+EMP-00286,Employee_286,33,Marketing,Director,Master,Full-time,2019-05-14,23,80408.63,1711.89,Average,8.2,86.0
+EMP-00928,Employee_928,36,Finance,VP,High School,Full-time,2020-04-30,23,146840.89,6125.44,Good,6.6,51.0
+EMP-00055,Employee_55,30,Legal,Director,Other,Contract,2019-11-25,29,68080.34,1371.87,Below Average,7.0,98.0
+EMP-00118,Employee_118,54,Finance,Senior,High School,Contract,2018-12-14,27,96777.12,9163.73,Good,3.5,70.0
+EMP-00329,Employee_329,25,Engineering,Junior,PhD,Intern,2016-04-25,20,141348.88,7377.38,Average,4.2,19.0
+EMP-00022,Employee_22,29,Sales,Senior,Master,Part-time,2020-01-22,38,101410.37,1900.74,Average,9.8,90.0
+EMP-00996,Employee_996,42,Support,Director,Master,Contract,2020-08-14,33,72019.99,6469.59,Good,1.6,38.0
+EMP-00124,Employee_124,43,Support,Manager,High School,Full-time,2015-11-18,13,82365.28,9094.6,Below Average,6.1,94.0
+EMP-01036,Employee_1036,34,Support,Senior,PhD,Intern,2016-04-01,31,49561.02,5227.28,Good,,70.0
+EMP-00258,Employee_258,45,Sales,Manager,Other,Contract,2022-03-06,5,66412.18,2495.54,Poor,7.6,27.0
+EMP-00658,Employee_658,54,Finance,Director,High School,Contract,2018-06-08,28,131087.94,7015.59,Poor,9.6,5.0
+EMP-00754,Employee_754,42,Operations,VP,Other,Intern,2015-01-18,18,46553.79,1372.53,Excellent,8.9,34.0
+EMP-00011,Employee_11,25,Support,Director,,Contract,2015-02-17,14,149840.24,2708.45,Average,,56.0
+EMP-00642,Employee_642,35,Legal,Junior,Master,Intern,2020-06-15,22,100103.26,6287.53,Average,6.3,96.0
+EMP-00568,Employee_568,31,Sales,Senior,PhD,Part-time,2020-08-02,22,172576.01,9419.99,,5.2,35.0
+EMP-00240,Employee_240,45,Operations,Director,High School,Intern,2021-03-18,28,39294.92,8524.2,Excellent,,3.0
+EMP-00037,Employee_37,63,Finance,Manager,Bachelor,Intern,2015-08-02,28,181479.27,1774.25,Good,3.6,18.0
+EMP-00163,Employee_163,27,Sales,Manager,Bachelor,Contract,2022-01-07,15,122642.89,2710.14,Excellent,5.9,92.0
+EMP-00396,Employee_396,29,HR,Manager,Other,Intern,2021-09-12,3,98146.52,1515.31,Excellent,9.4,35.0
+EMP-00369,Employee_369,55,Marketing,Manager,High School,Part-time,2018-05-28,18,192630.92,5594.69,Excellent,4.1,10.0
+EMP-00321,Employee_321,43,Operations,Junior,PhD,Full-time,2020-11-10,10,183819.83,9632.24,Poor,9.5,55.0
+EMP-00271,Employee_271,44,Engineering,Director,High School,Contract,2016-10-01,26,148330.69,552.43,Excellent,7.1,41.0
+EMP-00985,Employee_985,47,HR,Manager,High School,Full-time,2017-08-17,10,57768.97,100000.0,Below Average,8.0,
+EMP-01099,Employee_1099,28,Support,Director,High School,Full-time,2017-07-22,33,185807.94,3746.74,Good,5.1,21.0
+EMP-01200,Employee_1200,29,Sales,Manager,High School,Full-time,2019-07-29,32,143487.21,6493.13,Below Average,4.2,21.0
+EMP-00967,Employee_967,36,Engineering,Junior,High School,Intern,2021-09-13,7,38900.47,14692.41,Average,7.8,20.0
+EMP-00834,Employee_834,27,HR,Manager,High School,Intern,2022-11-27,8,193245.02,1257.7,Average,4.0,68.0
+EMP-00665,Employee_665,46,Marketing,Director,Bachelor,Full-time,2017-01-25,19,142345.65,5967.54,Below Average,9.9,50.0
+EMP-01175,Employee_1175,53,Sales,Lead,Other,Full-time,2022-05-20,7,33560.35,5484.74,Good,6.4,91.0
+EMP-00987,Employee_987,37,Support,Senior,Bachelor,Intern,2023-01-15,26,169676.27,11580.23,Excellent,9.5,63.0
+EMP-00101,Employee_101,32,Legal,Director,Bachelor,Full-time,2022-01-31,4,115387.81,468.9,Poor,6.3,60.0
+EMP-01130,Employee_1130,22,Engineering,Senior,High School,Full-time,2021-02-03,28,195719.49,7109.25,Average,7.0,17.0
+EMP-01002,Employee_1002,55,Finance,Senior,PhD,Contract,2016-11-26,9,50930.79,3591.53,Poor,7.9,
+EMP-00186,Employee_186,36,Marketing,VP,,Intern,2023-01-26,30,187529.4,3065.0,,5.2,34.0
+EMP-00595,Employee_595,33,Operations,Director,Other,Part-time,2017-02-01,8,166269.01,11599.93,Poor,9.8,20.0
+EMP-00463,Employee_463,41,Marketing,Manager,High School,Intern,2020-09-03,39,110384.45,1497.44,Below Average,1.6,45.0
+EMP-00920,Employee_920,46,Marketing,Senior,Master,Part-time,2020-10-11,17,45371.4,10550.84,Good,2.7,73.0
+EMP-00152,Employee_152,53,Marketing,Senior,High School,Intern,2016-09-27,37,193517.23,11051.36,Below Average,6.1,22.0
+EMP-01025,Employee_1025,44,Engineering,Director,High School,Part-time,2021-03-28,21,124889.37,5.4,Excellent,2.0,76.0
+EMP-00681,Employee_681,45,Finance,Director,High School,Full-time,2021-05-21,38,187661.83,14308.69,Below Average,7.0,11.0
+EMP-00889,Employee_889,34,Finance,Senior,PhD,Part-time,2021-03-12,35,175322.67,1922.6,Average,9.8,67.0
+EMP-00992,Employee_992,39,Sales,Director,High School,Intern,2018-03-09,2,183767.38,11436.58,Excellent,1.5,58.0
+EMP-00339,Employee_339,40,HR,Director,PhD,Contract,2016-07-03,1,66702.29,6519.87,Excellent,4.1,52.0
+EMP-00370,Employee_370,42,Sales,Director,,Intern,2018-06-25,39,110360.46,8125.46,Average,1.4,13.0
+EMP-01053,Employee_1053,52,Operations,VP,PhD,Part-time,2022-01-19,32,174835.59,12921.83,Excellent,6.4,100.0
+EMP-01190,Employee_1190,39,Operations,Director,Master,Intern,2017-07-04,1,76033.81,10968.54,Average,1.7,2.0
+EMP-01170,Employee_1170,33,Marketing,Lead,Other,Part-time,2018-11-11,14,"£198,883.23",7831.34,Poor,,93.0
+EMP-00427,Employee_427,52,Engineering,Junior,Other,Intern,2017-07-04,24,182644.4,11999.23,Good,9.6,60.0
+EMP-00959,Employee_959,38,Sales,Lead,Bachelor,Contract,2020-05-04,22,36322.15,4744.31,Good,8.6,39.0
+EMP-01176,Employee_1176,31,Support,Lead,Master,Full-time,2021-01-02,31,39900.24,12437.61,Below Average,7.3,8.0
+EMP-00079,Employee_79,49,Support,Manager,High School,Full-time,2020-05-23,6,192088.7,14658.16,,1.5,61.0
+EMP-00843,Employee_843,27,Marketing,Lead,Master,Part-time,2015-02-19,39,197325.01,14349.6,Below Average,2.0,6.0
+EMP-00739,Employee_739,29,Support,Manager,Bachelor,Part-time,2016-05-07,22,53001.57,8573.18,Good,2.6,18.0
+EMP-00899,Employee_899,45,Operations,Lead,Master,Contract,2023-02-16,28,45710.8,3603.57,Below Average,5.4,30.0
+EMP-00409,Employee_409,41,Finance,VP,,Intern,2015-10-09,35,157050.79,14644.0,Below Average,4.2,
+EMP-00196,Employee_196,46,Support,Manager,Master,Full-time,2019-06-24,8,149270.86,3868.93,Good,9.5,
+EMP-00080,Employee_80,47,Operations,Manager,Other,Intern,2015-12-09,14,103632.99,507.42,Excellent,8.6,22.0
+EMP-00434,Employee_434,49,Marketing,Senior,Bachelor,Contract,2021-09-16,30,55699.86,7635.84,Poor,3.9,1.0
+EMP-00470,Employee_470,29,Engineering,Manager,PhD,Intern,2021-02-05,26,115996.43,100000.0,Average,8.2,31.0
+EMP-00491,Employee_491,22,HR,Director,High School,Part-time,2019-03-27,26,177686.56,7642.47,Poor,3.2,58.0
+EMP-00826,Employee_826,51,Finance,Junior,Other,Intern,2020-05-26,4,78534.23,3674.77,Below Average,,85.0
+EMP-00703,Employee_703,47,Legal,Lead,Master,Contract,2020-03-03,31,159970.18,10698.07,Excellent,2.7,70.0
+EMP-00854,Employee_854,38,Marketing,Junior,PhD,Intern,2019-11-18,3,198538.1,8540.84,,3.9,58.0
+EMP-00926,Employee_926,54,Engineering,Lead,PhD,Full-time,2020-05-01,0,139659.12,714.91,Poor,2.9,15.0
+EMP-01133,Employee_1133,29,Finance,Lead,High School,Intern,2023-03-07,3,77224.26,869.71,Average,7.3,32.0
+EMP-01144,Employee_1144,42,Sales,Junior,Other,Full-time,2021-09-10,19,63853.42,5097.43,Poor,8.3,96.0
+EMP-00394,Employee_394,52,Legal,Junior,Bachelor,Intern,2017-04-17,23,74505.04,7786.68,Good,3.3,31.0
+EMP-00734,Employee_734,40,Finance,Junior,Master,Part-time,2017-01-09,10,86830.67,764.38,Average,9.5,
+EMP-00849,Employee_849,47,Legal,Manager,High School,Intern,2020-01-19,10,35882.39,2669.26,Poor,4.6,9.0
+EMP-00983,Employee_983,53,Sales,Lead,Bachelor,Part-time,2019-11-23,21,115556.52,6653.84,Poor,4.6,2.0
+EMP-00092,Employee_92,39,Engineering,Senior,PhD,Contract,2021-05-02,5,161173.55,4728.54,Poor,,84.0
+EMP-00171,Employee_171,24,Operations,Senior,PhD,Part-time,2022-05-30,12,64195.3,4512.81,Below Average,1.9,12.0
+EMP-00273,Employee_273,36,Support,Lead,Master,Part-time,2019-11-07,27,121096.04,14196.86,Good,9.0,12.0
+EMP-00076,Employee_76,46,Legal,Lead,High School,Contract,2017-07-29,11,182037.08,13530.01,Excellent,6.1,67.0
+EMP-00617,Employee_617,37,HR,Lead,Bachelor,Part-time,2019-02-03,27,90398.97,8317.28,Good,1.3,68.0
+EMP-00325,Employee_325,48,Sales,Director,Other,Part-time,2021-01-22,36,34071.69,11677.05,Excellent,5.2,74.0
+EMP-00806,Employee_806,35,Engineering,Lead,Bachelor,Intern,2022-02-02,28,59663.04,3460.84,Average,5.9,81.0
+EMP-01166,Employee_1166,36,Sales,VP,High School,Intern,2021-04-11,12,139858.91,7167.87,Average,2.0,25.0
+EMP-00057,Employee_57,27,Sales,Director,Other,Part-time,2018-10-21,24,69855.42,2421.56,Poor,3.7,30.0
+EMP-00570,Employee_570,37,Operations,Director,Master,Part-time,2020-06-11,2,92030.95,11925.77,Average,8.7,93.0
+EMP-00088,Employee_88,40,Marketing,Senior,,Intern,2020-04-15,37,168744.0,10825.04,Good,8.9,22.0
+EMP-00108,Employee_108,44,HR,VP,,Contract,2021-12-16,39,144593.73,5943.4,Below Average,8.4,96.0
+EMP-00237,Employee_237,46,Marketing,Manager,Other,Intern,2016-03-30,9,91070.47,12615.41,Excellent,2.1,0.0
+EMP-00499,Employee_499,29,HR,Senior,Bachelor,Intern,2019-04-01,23,144389.7,11776.96,Below Average,1.8,82.0
+EMP-00599,Employee_599,37,HR,Senior,PhD,Contract,2015-08-06,0,67488.55,4872.0,Poor,2.3,76.0
+EMP-00757,Employee_757,36,Operations,Junior,Bachelor,Contract,2020-02-02,38,94940.63,11238.63,Good,,39.0
+EMP-01037,Employee_1037,40,Support,Junior,High School,Full-time,2016-10-31,34,158819.32,10618.67,Good,7.5,87.0
+EMP-00358,Employee_358,28,Marketing,Manager,Bachelor,Contract,2019-03-31,34,116009.85,11448.64,Good,5.8,73.0
+EMP-00270,Employee_270,37,Support,Lead,Bachelor,Part-time,2021-11-17,34,152481.16,4980.05,Good,9.9,4.0
+EMP-00462,Employee_462,23,Marketing,Lead,PhD,Full-time,2020-09-08,4,31531.5,4400.7,Poor,9.7,32.0
+EMP-00075,Employee_75,43,HR,Senior,PhD,Full-time,2020-09-30,38,193896.92,214.15,Average,1.6,77.0
+EMP-00060,Employee_60,30,Legal,Senior,Other,Full-time,2016-01-26,33,125708.2,4321.59,Below Average,4.9,84.0
+EMP-00861,Employee_861,24,Operations,VP,Other,Contract,2017-03-21,30,54996.31,9785.28,Poor,6.9,69.0
+EMP-01005,Employee_1005,39,Engineering,VP,Master,Full-time,2022-06-05,2,106252.29,13378.65,Below Average,9.7,59.0
+EMP-00493,Employee_493,39,Support,VP,Bachelor,Contract,2016-02-05,16,56804.74,9223.73,,2.3,85.0
+EMP-01044,Employee_1044,22,HR,Junior,Other,Part-time,2020-05-12,7,106936.34,12753.11,Poor,3.5,67.0
+EMP-00755,Employee_755,30,Sales,Junior,Master,Intern,2020-10-05,31,127532.03,9119.71,Poor,8.2,90.0
+EMP-01084,Employee_1084,53,Engineering,Senior,High School,Intern,2020-12-12,6,34769.62,9651.27,Excellent,8.4,42.0
+EMP-00879,Employee_879,60,Support,Junior,PhD,Part-time,2018-01-29,17,88063.56,4667.15,Poor,3.2,31.0
+EMP-00012,Employee_12,29,Sales,Director,High School,Intern,2015-03-15,20,51095.01,2306.5,Poor,9.3,80.0
+EMP-00912,Employee_912,46,Legal,Lead,Other,Part-time,2016-03-18,29,36324.86,12545.51,Poor,3.1,5.0
+EMP-00228,Employee_228,29,Finance,Manager,Bachelor,Contract,2015-07-14,7,167419.21,2166.33,Good,5.7,23.0
+EMP-01132,Employee_1132,64,Operations,Junior,High School,Intern,2015-04-10,36,48417.48,12725.83,Average,2.3,40.0
+EMP-00944,Employee_944,44,Operations,Lead,Other,Intern,2022-01-02,2,188046.24,9675.78,,4.0,35.0
+EMP-00027,Employee_27,45,Legal,Manager,PhD,Contract,2018-09-08,19,137549.45,8439.23,Below Average,9.1,29.0
+EMP-00657,Employee_657,28,Engineering,Junior,Other,Full-time,2022-11-06,31,136200.1,1433.0,Average,3.3,1.0
+EMP-00730,Employee_730,25,Legal,Lead,Other,Contract,2021-03-25,36,89722.02,5540.52,Below Average,,5.0
+EMP-00787,Employee_787,30,HR,Lead,High School,Full-time,2019-08-15,20,197263.02,10367.75,Poor,5.8,31.0
+EMP-00243,Employee_243,55,Engineering,Manager,Master,Contract,2020-12-25,16,161445.57,8516.84,,,87.0
+EMP-01163,Employee_1163,44,HR,Director,Other,Part-time,2022-11-28,13,144267.75,100000.0,Below Average,8.5,13.0
+EMP-00829,Employee_829,32,HR,VP,High School,Contract,2018-08-04,21,179466.85,1736.25,Poor,2.5,91.0
+EMP-00974,Employee_974,43,Legal,Lead,Bachelor,Full-time,2015-07-15,7,172810.39,5058.36,Poor,5.1,90.0
+EMP-01119,Employee_1119,40,HR,Manager,Other,Full-time,2021-11-23,28,155051.34,12604.62,Below Average,7.1,13.0
+EMP-00631,Employee_631,47,Marketing,Senior,Master,Intern,2020-07-24,29,142166.11,9707.16,Excellent,7.4,33.0
+EMP-00380,Employee_380,25,Sales,Senior,High School,Contract,2015-03-12,28,111690.65,955.4,Good,4.5,22.0
+EMP-00398,Employee_398,50,HR,VP,Bachelor,Contract,2022-10-15,8,188790.41,7394.77,Poor,4.6,95.0
+EMP-00744,Employee_744,26,Engineering,Junior,Master,Contract,2015-09-27,17,133780.33,8796.85,Poor,8.4,74.0
+EMP-01040,Employee_1040,38,Operations,Director,Other,Part-time,2019-09-15,1,176313.88,2073.41,Poor,4.6,27.0
+EMP-00567,Employee_567,59,Marketing,Manager,Other,Intern,2019-07-15,24,192943.37,6624.78,Good,9.1,81.0
+EMP-00506,Employee_506,62,Engineering,Junior,High School,Full-time,2017-05-24,5,92959.94,14806.61,Below Average,9.5,59.0
+EMP-00795,Employee_795,64,Finance,Manager,High School,Contract,2017-08-17,32,31731.89,12673.21,Poor,5.1,9.0
+EMP-00858,Employee_858,28,Engineering,Senior,High School,Intern,2018-10-09,35,31274.64,1068.29,Average,3.5,7.0
+EMP-01192,Employee_1192,42,HR,VP,PhD,Intern,2021-09-25,36,105977.11,3454.48,Average,8.5,21.0
+EMP-00016,Employee_16,28,Sales,Director,Bachelor,Full-time,2015-04-22,13,217330.48700000002,1872.35,,4.4,37.0
+EMP-00652,Employee_652,22,HR,Junior,Master,Part-time,2015-08-21,19,141817.96,14013.72,Poor,7.8,39.0
+EMP-00777,Employee_777,61,Operations,VP,Bachelor,Intern,2017-10-21,14,63881.18,3296.1,Average,6.2,86.0
+EMP-00354,Employee_354,36,Operations,Junior,Bachelor,Intern,2019-11-30,13,188382.59,1255.75,Average,2.0,37.0
+EMP-01104,Employee_1104,52,Support,Manager,Bachelor,Contract,2021-12-28,26,93119.82,1426.77,Excellent,7.1,61.0
+EMP-00480,Employee_480,47,Engineering,Manager,Master,Part-time,2016-09-27,8,107938.85,3178.89,Poor,5.9,39.0
+EMP-00857,Employee_857,51,Finance,Lead,Master,Part-time,2021-07-21,21,168952.38,14258.92,Below Average,8.8,
+EMP-00514,Employee_514,42,Operations,Lead,High School,Intern,2022-02-18,37,166646.4,6154.36,Average,6.5,
+EMP-00483,Employee_483,61,Legal,Manager,PhD,Intern,2021-01-10,34,73741.42,9787.57,Average,8.0,6.0
+EMP-00802,Employee_802,37,Engineering,VP,,Part-time,2020-03-19,4,189023.82,7085.27,Good,1.8,19.0
+EMP-00948,Employee_948,23,Sales,Junior,Other,Intern,2022-10-25,6,135867.1,7068.93,Average,1.3,41.0
+EMP-00149,Employee_149,41,HR,Junior,High School,Contract,2020-06-17,19,185700.48,8339.89,Average,9.9,88.0
+EMP-00488,Employee_488,44,Marketing,Senior,Other,Contract,2017-10-04,31,80590.18,2950.17,Good,4.1,
+EMP-00685,Employee_685,43,HR,Director,High School,Full-time,2021-01-22,18,52556.01,2668.7,Below Average,1.2,71.0
+EMP-00364,Employee_364,42,Operations,Manager,Other,Contract,2021-08-22,26,192676.51,3449.11,Good,3.4,97.0
+EMP-00702,Employee_702,42,Sales,Senior,Bachelor,Full-time,2016-05-28,25,90483.89,11241.41,Below Average,9.5,11.0
+EMP-00839,Employee_839,35,Finance,Director,Bachelor,Full-time,2017-02-19,15,146684.39,9570.76,Below Average,8.8,41.0
+EMP-00940,Employee_940,26,Operations,Senior,PhD,Part-time,2022-08-23,7,102895.52,800.02,Below Average,4.8,71.0
+EMP-00604,Employee_604,36,HR,VP,High School,Intern,2019-01-15,10,144958.89,13961.43,Poor,7.1,61.0
+EMP-00911,Employee_911,50,Legal,Director,Bachelor,Part-time,2019-07-25,39,172999.3,10816.71,Average,5.9,93.0
+EMP-00904,Employee_904,35,HR,Lead,Other,Full-time,2018-05-17,3,32932.15,12116.3,Good,1.6,71.0
+EMP-00238,Employee_238,38,Sales,Manager,PhD,Contract,2020-03-06,13,144721.84,9378.94,Excellent,9.3,46.0
+EMP-00706,Employee_706,37,Support,VP,High School,Part-time,2015-01-18,13,156713.26,14497.36,Good,4.1,13.0
+EMP-00598,Employee_598,27,HR,Senior,Other,Part-time,2016-01-25,22,125675.99,7323.69,Excellent,8.7,18.0
+EMP-00723,Employee_723,25,Sales,Manager,High School,Full-time,2020-03-06,36,77138.42,2498.5,Good,4.1,80.0
+EMP-00366,Employee_366,23,Marketing,Director,,Intern,2017-02-10,30,"£40,439.36",4448.55,Average,6.8,20.0
+EMP-01108,Employee_1108,38,Sales,Director,Master,Part-time,2020-08-05,6,155742.01,5060.21,Average,3.0,94.0
+EMP-00828,Employee_828,52,Finance,Senior,High School,Part-time,2020-05-28,16,70067.73,10262.83,Average,4.4,85.0
+EMP-00698,Employee_698,22,HR,Director,PhD,Contract,2016-09-17,37,105984.35,4738.15,Below Average,6.6,31.0
+EMP-00810,Employee_810,31,Legal,Manager,Other,Full-time,2018-04-12,32,149615.56,12289.86,Average,,0.0
+EMP-00808,Employee_808,39,Sales,Director,Bachelor,Full-time,2015-01-11,1,161586.51,14028.3,Below Average,7.2,54.0
+EMP-01048,Employee_1048,22,Engineering,Manager,PhD,Full-time,2021-05-09,30,77415.58,7508.87,Average,6.4,35.0
+EMP-00701,Employee_701,27,Legal,Lead,Other,Intern,2020-05-02,29,158653.62,13386.45,Excellent,2.4,83.0
+EMP-01152,Employee_1152,46,Engineering,Manager,Other,Part-time,2020-10-04,38,30891.38,2945.39,Below Average,6.0,98.0
+EMP-00336,Employee_336,64,Engineering,Manager,Master,Part-time,2017-06-11,16,98120.74,6328.33,Good,3.4,28.0
+EMP-01076,Employee_1076,57,Sales,Junior,Master,Full-time,2019-06-20,15,178101.38,2059.11,Below Average,4.6,16.0
+EMP-00203,Employee_203,54,Engineering,Director,Master,Full-time,2023-01-27,1,45872.0,666.56,Excellent,5.0,97.0
+EMP-00231,Employee_231,22,Marketing,Lead,PhD,Contract,2017-01-27,32,156479.72,3118.38,Poor,9.5,47.0
+EMP-00923,Employee_923,45,Marketing,Manager,Other,Full-time,2017-06-19,25,65128.71,8865.1,Poor,8.8,18.0
+EMP-00727,Employee_727,41,Support,Manager,Other,Intern,2020-09-05,12,30309.45,953.39,Average,8.1,18.0
+EMP-00233,Employee_233,23,Operations,Director,PhD,Part-time,2018-07-29,5,133194.66,3135.77,Poor,3.9,3.0
+EMP-00725,Employee_725,49,Finance,Lead,High School,Full-time,2022-01-19,4,"£30,823.75",3144.81,Poor,4.7,58.0
+EMP-00342,Employee_342,43,Legal,Junior,Master,Intern,2021-10-26,26,112537.79,14782.63,Below Average,4.9,25.0
+EMP-00133,Employee_133,26,Operations,Senior,Other,Contract,2018-10-20,1,53403.69,11803.54,Good,2.9,49.0
+EMP-01164,Employee_1164,31,Sales,Junior,PhD,Intern,2016-08-27,19,"£106,746.86",75000.0,Average,8.2,
+EMP-00344,Employee_344,23,Engineering,Senior,Master,Part-time,2017-04-25,32,128687.69,4531.94,Poor,5.9,50.0
+EMP-00522,Employee_522,50,Marketing,Junior,Master,Full-time,2022-12-02,27,86202.91,6069.31,Poor,6.1,88.0
+EMP-00255,Employee_255,27,Operations,VP,Bachelor,Intern,2021-07-13,3,83774.19,7778.4,,4.2,14.0
+EMP-01141,Employee_1141,42,Engineering,Lead,Master,Part-time,2022-07-29,20,"£114,011.48",8881.18,,6.7,
+EMP-00284,Employee_284,51,Support,Senior,,Intern,2019-06-28,28,64134.18,6172.63,Excellent,9.4,2.0
+EMP-00919,Employee_919,44,Marketing,Senior,High School,Full-time,2017-12-17,2,143047.51,1735.01,Below Average,9.5,59.0
+EMP-00083,Employee_83,35,Support,Junior,PhD,Contract,2022-06-02,12,173773.91,13164.07,Average,1.3,97.0
+EMP-00065,Employee_65,38,Sales,Lead,Master,Part-time,2018-02-27,17,124450.79,3483.02,Excellent,5.7,33.0
+EMP-00632,Employee_632,50,Legal,Manager,,Intern,2021-11-18,21,54035.14,14.12,Poor,6.8,81.0
+EMP-00821,Employee_821,49,Operations,Senior,PhD,Full-time,2018-04-05,10,65746.47,660.87,Below Average,3.5,73.0
+EMP-00742,Employee_742,33,Marketing,VP,Master,Intern,2020-10-23,36,141910.85,11154.39,Below Average,8.0,68.0
+EMP-00769,Employee_769,23,Operations,Lead,Other,Contract,2021-07-07,7,189886.72,9679.18,Good,9.9,34.0
+EMP-00973,Employee_973,22,Support,VP,Master,Part-time,2019-02-15,29,183110.79,2042.86,Poor,9.0,6.0
+EMP-00841,Employee_841,61,Finance,Lead,High School,Part-time,2018-07-21,13,128373.54,2875.35,Good,4.5,85.0
+EMP-00793,Employee_793,52,Sales,Director,PhD,Intern,2020-05-31,31,100246.99,1484.65,Poor,1.4,59.0
+EMP-00379,Employee_379,44,HR,Manager,Bachelor,Intern,2022-10-18,13,116736.49,414.75,Poor,6.9,91.0
+EMP-01088,Employee_1088,36,Operations,Manager,Bachelor,Full-time,2017-11-10,26,169496.12,14940.28,Poor,7.1,14.0
+EMP-00122,Employee_122,24,Legal,Manager,High School,Full-time,2019-02-19,2,35271.58,7554.59,Good,7.2,3.0
+EMP-00738,Employee_738,24,Legal,VP,High School,Contract,2022-03-04,22,135703.32,5297.62,,,50.0
+EMP-00775,Employee_775,36,Sales,Senior,,Contract,2017-11-22,15,168276.94,9236.79,Good,,98.0
+EMP-00471,Employee_471,28,Engineering,Senior,PhD,Full-time,2021-10-19,9,159628.66,11301.24,Good,8.6,19.0
+EMP-00466,Employee_466,29,Finance,Senior,Other,Part-time,2015-02-02,17,107993.65,4087.83,Good,8.9,18.0
+EMP-01011,Employee_1011,34,Engineering,VP,Master,Part-time,2022-03-03,19,69101.65,2725.71,Average,3.7,2.0
+EMP-01199,Employee_1199,44,Support,Senior,PhD,Contract,2018-06-12,8,116670.55,11088.04,Excellent,,93.0
+EMP-00840,Employee_840,23,Operations,Senior,Master,Full-time,2016-04-12,35,85497.06,13026.03,Below Average,9.4,21.0
+EMP-00375,Employee_375,35,Finance,Manager,Master,Part-time,2019-04-07,5,95244.84,13231.83,Below Average,,8.0
+EMP-00504,Employee_504,50,HR,Junior,Other,Full-time,2018-08-07,8,"£90,377.16",13869.66,Good,2.4,40.0
+EMP-01115,Employee_1115,28,HR,Lead,Other,Contract,2019-08-23,11,114235.02,14794.67,Poor,6.8,54.0
+EMP-01052,Employee_1052,56,Sales,VP,,Intern,2019-04-10,10,77439.83,3632.78,Good,2.9,10.0
+EMP-00484,Employee_484,29,Legal,Senior,Master,Intern,2015-05-07,34,84924.98,11552.49,Below Average,3.5,9.0
+EMP-00507,Employee_507,49,Finance,Manager,Other,Full-time,2016-06-22,30,36758.41,14667.66,Average,6.6,74.0
+EMP-00218,Employee_218,44,Marketing,Lead,,Full-time,2020-05-22,32,145289.03,2866.61,Below Average,1.3,89.0
+EMP-00778,Employee_778,46,Operations,VP,PhD,Part-time,2019-06-03,22,198663.77,5393.41,Good,5.0,21.0
+EMP-00390,Employee_390,44,Operations,Junior,Master,Part-time,2015-07-11,26,65551.28,11040.03,Below Average,8.7,55.0
+EMP-00426,Employee_426,52,Operations,Lead,High School,Part-time,2018-11-26,38,158592.66,9363.87,Excellent,1.9,59.0
+EMP-01065,Employee_1065,23,Marketing,VP,Other,Intern,2020-07-30,24,32947.01,2793.16,Excellent,9.5,73.0
+EMP-00383,Employee_383,51,Sales,Senior,Other,Contract,2015-09-06,9,85040.55,7686.82,Average,8.9,4.0
+EMP-00330,Employee_330,35,Finance,Senior,,Part-time,2019-07-25,30,103089.77,1155.49,Poor,1.1,56.0
+EMP-00350,Employee_350,43,Engineering,Senior,Bachelor,Intern,2021-07-09,39,191516.15,12538.04,Excellent,4.3,47.0
+EMP-00536,Employee_536,44,Sales,Manager,High School,Contract,2022-09-23,38,131746.83,6324.44,Below Average,1.9,27.0
+EMP-01078,Employee_1078,27,Engineering,Lead,Bachelor,Full-time,2017-07-27,23,183755.46,153.97,Average,9.7,
+EMP-00023,Employee_23,22,Engineering,VP,High School,Part-time,2016-03-27,32,70016.6,9529.96,Poor,7.1,28.0
+EMP-00035,Employee_35,29,Support,Director,Bachelor,Part-time,2021-08-25,0,122578.95,12014.39,Excellent,3.6,66.0
+EMP-00277,Employee_277,41,Operations,Director,Bachelor,Part-time,2022-01-08,23,141470.27,6543.44,Below Average,8.9,80.0
+EMP-00896,Employee_896,35,Engineering,VP,,Full-time,2020-10-01,11,164259.54,8435.97,Below Average,6.8,72.0
+EMP-00371,Employee_371,29,Operations,VP,,Full-time,2020-02-15,17,62900.65,9065.7,Good,3.0,32.0
+EMP-00160,Employee_160,55,Operations,Lead,Other,Full-time,2021-11-24,1,74394.99,7306.09,Average,4.7,71.0
+EMP-00288,Employee_288,47,Operations,Junior,High School,Intern,2016-05-03,13,166743.6,9754.66,Excellent,6.1,75.0
+EMP-00184,Employee_184,40,Sales,Senior,PhD,Part-time,2020-11-10,30,133291.87,7600.94,Poor,8.8,12.0
+EMP-01072,Employee_1072,37,Operations,Lead,PhD,Intern,2017-08-22,27,86038.77,6834.7,Excellent,5.4,89.0
+EMP-00533,Employee_533,36,HR,Director,Master,Contract,2020-11-19,13,55445.95,5407.84,Below Average,1.7,44.0
+EMP-00884,Employee_884,36,Sales,Senior,Other,Intern,2019-09-28,18,"£167,214.52",10104.8,Excellent,5.7,79.0
+EMP-01045,Employee_1045,40,Finance,Director,High School,Contract,2020-01-14,39,97356.14,13560.87,Poor,3.7,93.0
+EMP-00982,Employee_982,43,HR,Manager,Master,Part-time,2021-12-02,20,181777.58,4704.27,Excellent,3.1,22.0
+EMP-00161,Employee_161,37,Engineering,Director,High School,Contract,2016-07-29,12,180255.21,6410.01,Good,8.3,88.0
+EMP-00633,Employee_633,47,Sales,Senior,Other,Full-time,2019-11-03,34,189105.29,10778.96,Poor,7.5,76.0
+EMP-00669,Employee_669,60,Support,Junior,Bachelor,Part-time,2017-05-23,19,132126.89,2164.53,Poor,8.3,60.0
+EMP-00128,Employee_128,27,Marketing,Junior,,Full-time,2017-03-30,26,61596.68,5197.66,,6.6,69.0
+EMP-01136,Employee_1136,55,Legal,Lead,High School,Contract,2020-05-30,7,78852.35,185.1,Poor,6.9,13.0
+EMP-00582,Employee_582,63,Engineering,Director,Other,Full-time,2019-08-27,35,167878.51,4912.61,Poor,1.8,38.0
+EMP-00081,Employee_81,55,Legal,Senior,High School,Part-time,2022-01-07,2,62482.86,14790.04,Average,7.6,80.0
+EMP-00188,Employee_188,50,Sales,VP,High School,Full-time,2022-05-06,27,74592.64,1591.41,Poor,2.3,69.0
+EMP-00907,Employee_907,49,Legal,Lead,,Intern,2016-12-06,15,151843.86,8332.07,Average,6.7,77.0
+EMP-00710,Employee_710,37,Support,Director,,Intern,2015-07-31,38,56445.09,11253.87,Good,4.2,58.0
+EMP-00365,Employee_365,40,Legal,Lead,Other,Part-time,2018-08-05,10,82117.85,3917.82,Good,1.7,43.0
+EMP-00416,Employee_416,28,Legal,Lead,High School,Part-time,2018-08-14,29,48012.25,7901.53,Below Average,6.1,66.0
+EMP-01082,Employee_1082,61,Engineering,Director,Master,Part-time,2019-07-06,19,102924.31,1687.46,Good,9.2,79.0
+EMP-00193,Employee_193,45,Finance,VP,High School,Part-time,2016-03-17,0,93528.8,5260.01,Poor,1.9,41.0
+EMP-00535,Employee_535,52,Marketing,Director,Master,Part-time,2021-10-14,21,110177.13,9366.3,Good,9.2,57.0
+EMP-00182,Employee_182,34,Operations,Manager,Master,Intern,2019-08-03,31,34863.82,5665.55,Below Average,2.9,83.0
+EMP-00215,Employee_215,42,Operations,Director,PhD,Contract,2015-11-19,0,149011.22,4956.03,Good,4.1,78.0
+EMP-00486,Employee_486,47,Finance,Junior,High School,Part-time,2020-07-16,26,181578.65,4594.22,Average,7.1,
+EMP-00649,Employee_649,27,Finance,Senior,Other,Full-time,2016-06-29,35,43971.03,3226.86,Poor,7.5,74.0
+EMP-00123,Employee_123,46,Support,Senior,Bachelor,Part-time,2020-10-09,15,97058.42,1161.24,Average,3.3,3.0
+EMP-00359,Employee_359,39,Engineering,Senior,Bachelor,Part-time,2016-05-29,0,106837.32,10983.74,Average,,76.0
+EMP-00560,Employee_560,35,Finance,Senior,Other,Contract,2018-04-26,3,161943.53,4349.46,Below Average,3.7,92.0
+EMP-00606,Employee_606,22,Operations,Lead,,Contract,2017-04-24,4,"£140,776.95",3647.34,,1.5,44.0
+EMP-00417,Employee_417,35,HR,VP,PhD,Contract,2018-06-11,11,64278.05,5821.5,Poor,3.6,56.0
+EMP-01150,Employee_1150,41,Marketing,Senior,Bachelor,Intern,2017-06-26,6,74201.19,962.23,Good,9.6,87.0
+EMP-00579,Employee_579,51,Sales,Manager,Other,Full-time,2021-02-09,27,78974.39,3998.13,Below Average,3.6,52.0
+EMP-00865,Employee_865,38,Marketing,Manager,PhD,Part-time,2019-11-13,17,46924.46,7527.74,Below Average,2.0,88.0
+EMP-00285,Employee_285,45,HR,Director,High School,Intern,2021-08-04,29,44842.18,1723.9,Excellent,4.9,92.0
+EMP-01019,Employee_1019,29,Operations,Manager,PhD,Contract,2022-10-15,28,106564.39,3713.57,Poor,8.9,
+EMP-01121,Employee_1121,49,Marketing,Senior,PhD,Intern,2019-06-23,39,142351.08,11431.0,Average,9.1,41.0
+EMP-00814,Employee_814,47,Marketing,VP,Master,Intern,2019-09-13,29,64912.47,3805.11,Below Average,2.4,52.0
+EMP-00668,Employee_668,60,Sales,Manager,PhD,Part-time,2020-03-05,34,135150.98,12214.77,Poor,4.5,9.0
+EMP-00332,Employee_332,39,Legal,Lead,High School,Part-time,2023-03-11,33,110860.26,7556.33,Poor,9.1,63.0
+EMP-00707,Employee_707,26,Sales,Director,Bachelor,Contract,2022-04-21,28,145313.46,8589.77,Below Average,2.1,4.0
+EMP-00654,Employee_654,47,Finance,Manager,Other,Full-time,2022-09-19,39,55800.77,6776.91,Average,5.5,98.0
+EMP-00448,Employee_448,31,Legal,Junior,Bachelor,Intern,2015-10-23,35,163733.05,3872.06,Average,6.0,92.0
+EMP-00692,Employee_692,40,Engineering,Director,Master,Part-time,2015-12-30,15,59516.03,5475.53,Excellent,3.3,19.0
+EMP-00102,Employee_102,39,Legal,Senior,Bachelor,Intern,2022-10-25,22,"£59,851.35",8126.67,Excellent,7.9,59.0
+EMP-00447,Employee_447,37,Legal,Manager,,Part-time,2017-03-05,15,51378.4,2514.45,Good,9.7,84.0
+EMP-00813,Employee_813,50,Finance,Junior,Bachelor,Intern,2015-10-13,14,184644.93,1867.88,Good,1.9,90.0
+EMP-00208,Employee_208,46,HR,Director,PhD,Part-time,2018-05-03,39,186490.23,3132.13,Average,4.5,85.0
+EMP-00095,Employee_95,51,Engineering,Senior,PhD,Full-time,2020-07-15,25,198401.29,75000.0,Below Average,9.9,56.0
+EMP-00431,Employee_431,34,Finance,Lead,Master,Full-time,2018-11-02,16,199996.14,3606.12,Excellent,3.5,94.0
+EMP-00989,Employee_989,29,Sales,Senior,Master,Contract,2017-08-01,6,146451.69,4342.58,Excellent,7.6,31.0
+EMP-01131,Employee_1131,23,Marketing,Manager,High School,Part-time,2017-01-11,8,61954.73,1981.37,Good,,91.0
+EMP-01058,Employee_1058,35,Engineering,Lead,Bachelor,Intern,2016-02-01,22,96126.34,4601.69,Average,,
+EMP-01015,Employee_1015,29,Finance,Manager,High School,Full-time,2020-06-06,4,107313.56,1921.16,Excellent,9.5,50.0
+EMP-00143,Employee_143,28,Operations,Senior,High School,Intern,2015-03-19,10,193202.78,11970.38,Excellent,8.2,49.0
+EMP-00490,Employee_490,24,Engineering,Manager,PhD,Contract,2015-04-04,28,33542.74,7433.14,Average,4.4,
+EMP-01188,Employee_1188,39,Finance,VP,PhD,Part-time,2016-12-22,8,"£158,732.89",5986.23,Excellent,9.6,88.0
+EMP-01087,Employee_1087,43,Engineering,Senior,Master,Intern,2023-02-04,15,191270.33,9552.46,Below Average,6.3,34.0
+EMP-00783,Employee_783,36,Legal,VP,Bachelor,Part-time,2015-12-05,0,77742.27,9352.89,Below Average,3.2,1.0
+EMP-00823,Employee_823,45,Finance,Lead,Other,Part-time,2022-02-01,17,108486.68,8731.46,Good,1.6,87.0
+EMP-00656,Employee_656,62,Legal,Lead,High School,Part-time,2019-09-06,28,185488.85,7375.44,Good,4.4,54.0
+EMP-00254,Employee_254,57,Support,Senior,High School,Contract,2021-07-15,7,"£161,083.62",8287.67,Poor,7.3,72.0
+EMP-00740,Employee_740,31,Operations,Junior,Master,Contract,2021-09-18,0,180124.07,12506.57,Below Average,3.8,68.0
+EMP-00539,Employee_539,44,Finance,Lead,High School,Full-time,2016-08-19,31,81079.93,8517.26,Average,3.9,52.0
+EMP-00269,Employee_269,45,Marketing,VP,High School,Full-time,2020-12-31,20,79303.27,13937.09,Below Average,6.9,24.0
+EMP-00064,Employee_64,53,Sales,Director,Master,Intern,2020-06-14,30,84438.52,827.0,Good,3.4,36.0
+EMP-01060,Employee_1060,31,Marketing,Junior,Other,Contract,2022-12-30,0,183625.62,14152.91,Poor,9.9,42.0
+EMP-00546,Employee_546,25,Sales,Junior,Master,Intern,2022-10-27,22,52473.06,3534.37,Good,1.2,88.0
+EMP-00812,Employee_812,32,Support,Manager,Master,Contract,2016-03-18,22,135755.96,6183.29,Good,1.6,18.0
+EMP-01127,Employee_1127,38,HR,Junior,High School,Contract,2022-04-05,28,122009.56,7028.55,Below Average,2.2,55.0
+EMP-00918,Employee_918,23,Legal,Director,Other,Part-time,2019-04-26,3,52915.66,14607.71,Excellent,3.0,47.0
+EMP-00119,Employee_119,28,Support,VP,Other,Intern,2017-09-06,17,31346.27,3490.74,Average,4.3,85.0
+EMP-00528,Employee_528,36,HR,Senior,High School,Intern,2017-06-08,10,145201.16,11571.9,Average,10.0,57.0
+EMP-00803,Employee_803,38,Legal,Junior,Bachelor,Contract,2018-11-20,31,146769.86,7588.08,Poor,7.1,76.0
+EMP-00555,Employee_555,33,Sales,VP,Other,Part-time,2019-08-12,4,93965.2,7770.53,Poor,9.6,36.0
+EMP-00962,Employee_962,29,Sales,Junior,Bachelor,Contract,2016-11-30,24,153656.24,10005.84,Poor,6.6,
+EMP-01198,Employee_1198,27,HR,VP,Master,Intern,2020-08-29,36,74779.74,11776.73,Below Average,8.2,18.0
+EMP-00175,Employee_175,41,Operations,Manager,Other,Intern,2019-04-04,24,74422.5,7498.95,Poor,8.9,95.0
+EMP-00798,Employee_798,45,Engineering,Director,PhD,Full-time,2017-06-11,26,100591.49,6414.54,Good,9.7,63.0
+EMP-01184,Employee_1184,54,Finance,Lead,High School,Contract,2015-11-22,10,82905.63,13780.7,Average,9.0,44.0
+EMP-01189,Employee_1189,40,Sales,Manager,High School,Intern,2016-06-10,24,158338.6,7800.32,Good,2.8,36.0
+EMP-00874,Employee_874,26,Legal,VP,Master,Full-time,2017-04-09,14,171514.81,3531.89,Excellent,8.3,39.0
+EMP-00456,Employee_456,62,Legal,Junior,Master,Intern,2022-11-11,12,164117.05,2723.47,Average,2.3,54.0
+EMP-00523,Employee_523,61,Engineering,Senior,Bachelor,Part-time,2022-09-06,4,123480.85,4026.43,Excellent,7.9,90.0
+EMP-00094,Employee_94,45,Sales,Junior,High School,Contract,2017-11-04,18,33930.53,9859.81,Average,1.8,54.0
+EMP-00501,Employee_501,43,Engineering,Director,Other,Part-time,2021-07-16,33,118048.96,795.24,Average,8.9,100.0
+EMP-00801,Employee_801,35,Finance,Junior,PhD,Part-time,2017-04-12,27,169379.76,5137.95,Good,5.9,
+EMP-00312,Employee_312,54,Engineering,Senior,Master,Part-time,2016-03-30,38,145111.61,4169.8,Poor,6.7,88.0
+EMP-00824,Employee_824,50,Engineering,Junior,Master,Intern,2016-07-21,18,97368.86,10586.07,Poor,,40.0
+EMP-00519,Employee_519,51,HR,Senior,Master,Part-time,2019-12-31,3,71516.22,1192.61,Average,4.9,98.0
+EMP-00788,Employee_788,30,Marketing,Lead,Master,Part-time,2022-08-03,8,170118.98,10685.89,Average,9.6,12.0
+EMP-00154,Employee_154,49,Finance,Manager,Master,Part-time,2015-05-16,5,49442.48,2993.05,Poor,9.2,84.0
+EMP-00117,Employee_117,59,Legal,Junior,High School,Intern,2019-11-28,36,155598.9,1678.39,Below Average,,65.0
+EMP-00532,Employee_532,57,Operations,Director,Master,Full-time,2019-10-31,9,121206.61,6151.73,,7.8,0.0
+EMP-00469,Employee_469,36,HR,Senior,Other,Part-time,2019-07-06,4,116799.21,7444.71,Excellent,4.1,43.0
+EMP-01158,Employee_1158,52,HR,Junior,High School,Contract,2022-09-07,12,133463.09,10314.08,Poor,7.3,72.0
+EMP-00444,Employee_444,36,Marketing,Lead,PhD,Full-time,2016-10-22,37,84810.8,7835.6,Excellent,,37.0
+EMP-00295,Employee_295,47,Legal,Manager,PhD,Part-time,2021-12-18,34,95152.673,9045.41,Poor,6.7,27.0
+EMP-01135,Employee_1135,35,HR,Lead,High School,Full-time,2015-07-01,28,60265.75,13545.05,Average,5.5,77.0
+EMP-01173,Employee_1173,63,Support,Manager,High School,Part-time,2015-01-03,31,146990.07,8558.73,Below Average,6.1,31.0
+EMP-00024,Employee_24,46,Engineering,Senior,Other,Contract,2020-08-12,28,132194.76,11675.87,Poor,2.0,65.0
+EMP-00031,Employee_31,24,Legal,Director,Bachelor,Full-time,2020-06-04,27,"£164,101.52",2650.96,Average,5.0,51.0
+EMP-00226,Employee_226,40,Marketing,Director,PhD,Part-time,2021-09-15,10,69360.27,81.71,Excellent,,21.0
+EMP-00001,Employee_1,41,Engineering,Junior,High School,Contract,2018-09-08,29,162659.45,7913.7,Poor,1.2,39.0
+EMP-00585,Employee_585,28,Operations,Director,Master,Contract,2017-04-01,13,117852.4,11698.58,Below Average,,72.0
+EMP-00910,Employee_910,35,Support,Director,Bachelor,Full-time,2020-04-03,20,37018.07,9034.82,Good,6.6,85.0
+EMP-00714,Employee_714,43,Finance,Senior,Other,Full-time,2022-03-08,13,156283.42,691.25,Good,4.6,
+EMP-00436,Employee_436,38,Engineering,VP,High School,Part-time,2017-07-11,24,78446.68,10940.65,Good,8.0,51.0
+EMP-00780,Employee_780,53,Support,VP,High School,Intern,2021-10-10,31,139297.76,10395.62,Average,1.6,58.0
+EMP-00624,Employee_624,56,Legal,Junior,Other,Intern,2022-08-25,39,97357.59,9626.86,Excellent,8.5,3.0
+EMP-00825,Employee_825,50,Legal,Junior,Other,Intern,2017-08-08,9,77497.38,679.67,Poor,6.1,41.0
+EMP-00116,Employee_116,35,Finance,Senior,Master,Intern,2021-06-02,23,60350.41,1156.38,Good,5.2,2.0
+EMP-00509,Employee_509,48,Support,Director,High School,Full-time,2017-07-25,37,131669.14,7080.24,Good,1.8,50.0
+EMP-00033,Employee_33,39,Support,Lead,Other,Intern,2020-03-12,36,108493.26,7425.33,Good,1.1,11.0
+EMP-00153,Employee_153,32,Marketing,VP,Other,Contract,2019-03-02,31,103861.77,6906.52,,4.9,5.0
+EMP-00991,Employee_991,37,Marketing,Lead,High School,Contract,2016-05-22,37,112194.91,7480.11,Average,8.9,26.0
+EMP-00790,Employee_790,38,HR,Manager,Other,Contract,2021-02-17,6,139244.8,822.31,Poor,6.4,36.0
+EMP-00039,Employee_39,46,Operations,Manager,Master,Intern,2018-12-06,25,171530.83,12885.14,Good,2.7,24.0
+EMP-00025,Employee_25,29,Finance,VP,PhD,Part-time,2021-07-16,23,129414.94,8866.73,Good,,61.0
+EMP-00977,Employee_977,27,Operations,VP,Bachelor,Full-time,2019-06-29,3,193709.76,3819.09,Poor,6.2,89.0
+EMP-00200,Employee_200,43,Legal,Senior,Master,Part-time,2018-08-29,38,111896.52,6861.8,,,
+EMP-00206,Employee_206,44,HR,Manager,PhD,Full-time,2022-03-05,1,181779.6,12138.85,Excellent,2.0,79.0
+EMP-00817,Employee_817,44,Support,Junior,PhD,Full-time,2017-04-29,22,160860.98,5161.98,Average,2.2,23.0
+EMP-00789,Employee_789,40,Marketing,VP,High School,Full-time,2017-09-01,3,72418.38,5280.96,Below Average,7.5,4.0
+EMP-00895,Employee_895,33,Legal,Junior,PhD,Contract,2022-06-02,31,75717.22,2743.12,Excellent,3.2,20.0
+EMP-00181,Employee_181,38,Support,Manager,Other,Full-time,2019-09-28,5,91765.8,11104.32,Average,7.7,70.0
+EMP-00259,Employee_259,28,Support,Senior,Bachelor,Intern,2020-03-11,6,174678.33,13208.99,Poor,4.7,35.0
+EMP-01183,Employee_1183,41,Legal,Senior,PhD,Intern,2020-02-18,21,131700.52,2697.61,Below Average,1.9,16.0
+EMP-00411,Employee_411,39,Operations,Director,Master,Full-time,2020-12-13,27,156457.57,7762.64,Below Average,9.4,15.0
+EMP-00265,Employee_265,42,Support,Manager,Other,Part-time,2022-03-25,31,132266.75,2270.98,Below Average,6.5,76.0
+EMP-00997,Employee_997,31,Operations,Lead,High School,Part-time,2016-12-06,3,105540.34,11047.14,Poor,2.4,46.0
+EMP-01147,Employee_1147,28,Legal,Junior,Other,Full-time,2016-11-23,3,136612.02,11373.91,Good,3.5,54.0
+EMP-00720,Employee_720,29,Sales,Manager,High School,Part-time,2015-01-04,7,101561.7,7266.06,Excellent,3.4,66.0
+EMP-00296,Employee_296,36,Engineering,Director,Bachelor,Part-time,2023-01-23,34,48306.71,1153.64,Average,5.6,50.0
+EMP-01034,Employee_1034,39,HR,Lead,Other,Full-time,2018-05-07,5,76595.46,1180.09,Poor,6.5,29.0
+EMP-01103,Employee_1103,27,Engineering,Senior,Master,Full-time,2017-03-27,26,109039.72,151.19,Excellent,6.7,70.0
+EMP-00653,Employee_653,38,Sales,Senior,PhD,Full-time,2015-12-07,31,184022.89,8580.9,Poor,3.2,2.0
+EMP-00906,Employee_906,58,Operations,Lead,High School,Intern,2018-07-31,17,179516.48,11116.2,Excellent,4.3,19.0
+EMP-00661,Employee_661,47,Operations,Junior,Master,Part-time,2021-02-28,11,127101.82,2370.3,Good,9.4,30.0
+EMP-00961,Employee_961,35,HR,Manager,Other,Part-time,2015-01-10,19,56686.2,50000.0,,1.6,84.0
+EMP-01030,Employee_1030,47,Finance,Lead,Other,Intern,2015-06-10,20,44355.16,12400.75,,7.8,91.0
+EMP-00990,Employee_990,53,HR,Lead,Master,Part-time,2016-04-29,18,43456.71,8720.15,Good,8.3,78.0
+EMP-00106,Employee_106,49,Legal,Junior,PhD,Part-time,2021-02-19,35,144966.29,4573.56,Poor,6.6,
+EMP-00072,Employee_72,36,HR,Lead,High School,Intern,2018-08-22,10,"£35,240.96",13453.09,Poor,7.4,57.0
+EMP-00627,Employee_627,53,Engineering,Senior,High School,Part-time,2022-06-05,17,152233.6,1402.68,Excellent,,96.0
+EMP-00235,Employee_235,51,HR,Manager,High School,Contract,2019-07-10,20,113312.93,13331.43,Below Average,7.9,
+EMP-00348,Employee_348,54,Support,Manager,Other,Intern,2018-02-02,9,146423.48,448.13,Poor,5.2,69.0
+EMP-00746,Employee_746,40,Engineering,Senior,Master,Intern,2021-05-06,16,89987.95,7541.91,Good,2.4,29.0
+EMP-01003,Employee_1003,25,Engineering,VP,Bachelor,Part-time,2020-01-01,18,189967.03,9927.82,Excellent,1.7,92.0
+EMP-00403,Employee_403,46,HR,Lead,Bachelor,Part-time,2017-03-19,12,100475.91,4651.27,Average,4.5,16.0
+EMP-01126,Employee_1126,51,Legal,Manager,PhD,Full-time,2016-08-03,12,122879.78,1404.62,Good,4.7,89.0
+EMP-00521,Employee_521,48,Sales,Lead,PhD,Contract,2015-01-09,26,179676.71,11679.44,Good,6.1,54.0
+EMP-00510,Employee_510,59,Operations,VP,PhD,Intern,2017-07-13,3,98817.45,3846.6,Good,2.7,17.0
+EMP-00898,Employee_898,36,Operations,VP,Other,Contract,2018-03-21,7,65360.75,7787.31,Poor,2.3,96.0
+EMP-00050,Employee_50,35,Support,Director,Other,Contract,2018-11-19,8,36273.05,2918.46,Below Average,3.2,34.0
+EMP-01162,Employee_1162,37,Legal,Senior,Master,Full-time,2016-08-01,2,51446.45,6632.48,Average,9.9,63.0
+EMP-00387,Employee_387,23,Operations,Lead,Master,Intern,2018-03-05,5,168218.28,3791.81,Poor,8.2,42.0
+EMP-00303,Employee_303,47,Engineering,VP,PhD,Contract,2015-10-21,33,102552.48,7296.67,Poor,5.0,49.0
+EMP-00995,Employee_995,41,Sales,VP,PhD,Full-time,2021-12-20,18,92908.55,3788.56,Good,3.7,16.0
+EMP-00180,Employee_180,53,Support,Senior,Master,Intern,2022-03-07,11,186692.52,10099.85,Average,2.2,26.0
+EMP-00202,Employee_202,41,Operations,Junior,Master,Part-time,2016-09-04,12,152476.12,12578.86,Excellent,7.5,77.0
+EMP-00670,Employee_670,46,Legal,Manager,Bachelor,Contract,2020-06-01,37,76167.72,5579.87,Good,7.8,41.0
+EMP-01057,Employee_1057,35,Legal,Senior,Bachelor,Full-time,2015-02-21,36,160602.83,8605.37,Excellent,8.2,0.0
+EMP-00952,Employee_952,64,Finance,Lead,PhD,Part-time,2016-06-18,7,63741.19,8517.4,Poor,5.4,94.0
+EMP-00232,Employee_232,40,Operations,Senior,Other,Intern,2017-09-19,32,77700.67,170.18,Average,1.2,19.0
+EMP-00731,Employee_731,31,Operations,Senior,Bachelor,Part-time,2019-12-22,14,119669.91,13158.57,Average,8.7,
+EMP-00451,Employee_451,34,Finance,Senior,High School,Contract,2020-12-14,10,113273.86,2443.98,Good,6.7,70.0
+EMP-01174,Employee_1174,53,Operations,Lead,Master,Part-time,2023-01-14,3,186530.63,8197.99,Average,2.0,43.0
+EMP-01102,Employee_1102,38,Operations,VP,PhD,Part-time,2023-02-12,10,195214.94,2229.94,,,97.0
+EMP-00704,Employee_704,37,Sales,Director,Bachelor,Part-time,2021-05-18,18,188282.79,9943.15,Excellent,3.2,63.0
+EMP-01105,Employee_1105,51,Operations,Lead,,Full-time,2022-10-08,17,99413.48,5306.18,Excellent,6.9,24.0
+EMP-00811,Employee_811,29,Operations,Manager,Bachelor,Part-time,2018-02-15,6,81245.64,5388.16,Excellent,3.1,28.0
+EMP-00077,Employee_77,54,HR,Junior,Master,Full-time,2018-08-21,33,71681.7,4645.48,Good,9.0,
+EMP-00934,Employee_934,45,HR,Senior,Bachelor,Contract,2016-08-15,39,"£124,800.70",427.86,Average,1.2,2.0
+EMP-00298,Employee_298,45,Operations,Senior,Other,Intern,2021-07-26,36,91428.18,3265.72,Poor,9.1,4.0
+EMP-01012,Employee_1012,35,Operations,VP,High School,Contract,2019-09-28,20,56633.34,7895.6,Below Average,1.9,81.0
+EMP-00872,Employee_872,40,Legal,Manager,Master,Full-time,2018-11-07,29,163449.59,10688.22,Poor,8.3,33.0
+EMP-00717,Employee_717,26,Operations,Manager,PhD,Intern,2017-05-27,1,142989.42,13989.27,Average,5.9,21.0
+EMP-00126,Employee_126,31,Sales,Junior,Master,Full-time,2020-06-19,37,107849.12,10486.43,Average,5.1,28.0
+EMP-00688,Employee_688,34,Marketing,Director,Bachelor,Full-time,2015-07-19,2,136070.08,1765.75,Good,1.2,20.0
+EMP-01083,Employee_1083,37,Operations,Junior,Other,Contract,2020-04-19,16,193531.07,13108.34,Average,5.3,14.0
+EMP-00552,Employee_552,54,Sales,VP,PhD,Part-time,2015-07-01,32,165409.35,3184.62,Excellent,5.3,70.0
+EMP-01018,Employee_1018,49,Finance,Senior,Other,Contract,2021-09-15,29,178245.47,13732.39,Good,1.6,79.0
+EMP-01080,Employee_1080,63,HR,Manager,Bachelor,Intern,2018-06-06,22,83215.09,75000.0,Good,4.5,74.0
+EMP-00608,Employee_608,51,Operations,Manager,Master,Contract,2017-07-08,32,31523.8,703.32,Poor,9.4,72.0
+EMP-00761,Employee_761,27,Operations,Lead,Other,Part-time,2020-10-31,17,181235.53,9689.83,Average,9.9,44.0
+EMP-01153,Employee_1153,51,Support,Director,PhD,Full-time,2021-07-20,8,58838.2,5504.03,Good,6.8,1.0
+EMP-00021,Employee_21,27,Engineering,Junior,Master,Part-time,2017-12-28,19,109952.21,1675.06,Excellent,1.4,
+EMP-00809,Employee_809,38,Finance,Manager,Other,Full-time,2020-12-11,12,194441.74,3832.48,Below Average,9.2,48.0
+EMP-01118,Employee_1118,36,Marketing,Manager,Bachelor,Contract,2020-05-19,23,155196.73,6049.6,Poor,1.4,55.0
+EMP-00541,Employee_541,36,Finance,Manager,Other,Contract,2019-02-07,26,178266.48,8630.95,,4.1,75.0
+EMP-00278,Employee_278,59,Engineering,Lead,Other,Contract,2015-05-30,9,69942.41,3213.4,Poor,5.3,
+EMP-00578,Employee_578,29,Engineering,Senior,Other,Intern,2021-08-11,36,107243.87,90.27,,6.7,61.0
+EMP-00797,Employee_797,62,Support,Director,High School,Part-time,2019-01-05,21,118620.11,8513.73,Average,5.6,93.0
+EMP-01046,Employee_1046,44,Support,Senior,Master,Part-time,2020-02-20,35,47202.65,1011.97,Excellent,9.2,86.0
+EMP-00257,Employee_257,49,Support,VP,PhD,Part-time,2018-02-06,23,103382.97,75000.0,Below Average,2.5,89.0
+EMP-00697,Employee_697,52,HR,VP,Master,Contract,2019-11-12,30,150459.57,9568.73,Excellent,7.5,
+EMP-00399,Employee_399,23,HR,Junior,Master,Contract,2022-03-10,7,154537.3,24.62,,2.4,35.0
+EMP-00726,Employee_726,36,Support,Manager,Other,Contract,2021-01-16,37,98732.183,6340.45,Good,,79.0
+EMP-01194,Employee_1194,36,HR,Junior,High School,Part-time,2016-11-07,30,131251.48,7926.55,Poor,3.4,5.0
+EMP-00212,Employee_212,58,Legal,Manager,High School,Intern,2022-05-08,10,113410.71,7702.88,Good,6.2,76.0
+EMP-00958,Employee_958,52,Marketing,Junior,PhD,Contract,2016-10-21,12,168971.72,1000.13,Poor,3.3,71.0
+EMP-00090,Employee_90,28,Finance,Director,Bachelor,Part-time,2018-05-31,17,192275.77,1299.14,Excellent,4.1,10.0
+EMP-00405,Employee_405,44,Support,Lead,Bachelor,Contract,2019-11-20,5,85892.11,9153.47,Excellent,8.4,25.0
+EMP-00741,Employee_741,36,Engineering,Director,Other,Contract,2020-10-08,27,186625.37,11039.63,Below Average,4.7,95.0
+EMP-00192,Employee_192,43,Engineering,Junior,PhD,Intern,2022-10-14,6,109486.6,3116.25,Below Average,1.7,
+EMP-00768,Employee_768,41,Sales,Manager,Other,Contract,2017-11-06,38,81818.16,1642.86,Below Average,3.3,4.0
+EMP-00929,Employee_929,42,Marketing,Senior,Master,Full-time,2021-10-20,9,121958.95,7013.27,Good,4.4,72.0
+EMP-00975,Employee_975,42,Sales,Junior,Bachelor,Contract,2019-08-10,38,75712.51,13749.49,,5.3,50.0
+EMP-01142,Employee_1142,29,HR,Senior,High School,Contract,2015-02-27,13,100243.93,2400.75,Average,9.3,10.0
+EMP-00475,Employee_475,52,Marketing,VP,Bachelor,Intern,2015-08-14,18,127428.11,8980.0,Excellent,7.3,5.0
+EMP-01145,Employee_1145,50,HR,Senior,Bachelor,Full-time,2019-05-30,13,"£90,570.82",9436.75,Poor,1.8,90.0
+EMP-01143,Employee_1143,36,Engineering,Manager,Master,Intern,2015-03-25,36,86013.25,9588.27,Good,2.3,10.0
+EMP-00028,Employee_28,37,Finance,Senior,Master,Full-time,2022-03-29,12,142650.74,10409.11,Poor,,49.0
+EMP-00224,Employee_224,38,Sales,Manager,Bachelor,Intern,2020-02-21,11,101617.96,5467.84,Good,4.2,
+EMP-00217,Employee_217,57,Marketing,Junior,High School,Contract,2019-12-01,29,70410.25,9052.12,Below Average,2.6,
+EMP-00249,Employee_249,53,Sales,VP,Other,Contract,2022-04-03,18,86116.5,2865.17,Excellent,5.9,75.0
+EMP-00190,Employee_190,53,Sales,VP,PhD,Intern,2016-02-12,32,108974.22,7124.94,,4.3,42.0
+EMP-00969,Employee_969,29,Support,Junior,Master,Contract,2021-10-02,1,40060.41,4853.3,Excellent,8.1,39.0
+EMP-00392,Employee_392,47,Support,Senior,Master,Intern,2020-11-07,25,134513.18,13134.23,Good,2.6,
+EMP-00737,Employee_737,26,HR,Manager,Master,Part-time,2018-04-07,21,81558.82,13219.75,Poor,9.8,4.0
+EMP-00071,Employee_71,28,Sales,Director,Bachelor,Contract,2020-06-27,15,59958.98,8091.74,Good,5.6,71.0
+EMP-00800,Employee_800,34,Finance,VP,High School,Contract,2017-02-21,13,131759.95,75000.0,Good,2.6,16.0
+EMP-00853,Employee_853,47,Support,Manager,Other,Part-time,2021-01-10,13,142544.47,14901.53,Excellent,8.9,62.0
+EMP-00700,Employee_700,40,Engineering,Lead,Bachelor,Part-time,2021-07-30,0,165684.62,12406.03,Average,9.8,58.0
+EMP-00955,Employee_955,41,Legal,Lead,Bachelor,Contract,2018-04-29,37,108852.78,2188.44,Below Average,8.0,
+EMP-00534,Employee_534,46,Finance,Manager,Bachelor,Contract,2021-10-31,4,65680.06,1972.25,Excellent,1.7,28.0
+EMP-00816,Employee_816,30,HR,Manager,High School,Full-time,2017-02-27,17,197654.534,7724.05,Below Average,1.1,42.0
+EMP-00922,Employee_922,35,Legal,Junior,PhD,Part-time,2019-02-11,4,119666.29,8152.65,Below Average,1.1,26.0
+EMP-01061,Employee_1061,36,Support,Manager,Other,Part-time,2018-09-25,14,108146.26,12611.11,Excellent,6.1,62.0
+EMP-01008,Employee_1008,33,Finance,Lead,Other,Part-time,2018-08-13,17,107010.36,2354.38,,3.6,37.0
+EMP-00881,Employee_881,59,Support,Director,Other,Full-time,2022-06-22,19,151300.84,75000.0,Good,7.6,61.0
+EMP-00848,Employee_848,63,Operations,Director,High School,Contract,2018-08-15,24,51957.42,1513.11,Below Average,7.0,86.0
+EMP-01032,Employee_1032,46,Finance,Junior,Master,Intern,2015-04-13,26,93386.47,10971.49,Excellent,6.9,92.0
+EMP-00220,Employee_220,53,Operations,Lead,High School,Full-time,2017-01-01,0,169289.22,5864.15,Excellent,8.8,18.0
+EMP-00234,Employee_234,46,Engineering,Junior,,Full-time,2015-12-22,6,126865.89,9318.97,Below Average,4.6,2.0
+EMP-00736,Employee_736,51,Support,Director,,Intern,2020-11-29,31,144694.44,525.77,Poor,2.5,43.0
+EMP-00772,Employee_772,44,Finance,Director,Master,Contract,2021-11-22,31,115424.09,11411.56,Average,1.9,66.0
+EMP-00415,Employee_415,26,Support,Manager,PhD,Contract,2020-03-03,35,156447.65,7170.82,Poor,8.3,69.0
+EMP-00289,Employee_289,43,Sales,Junior,PhD,Full-time,2017-07-02,16,163875.81,1819.58,Average,1.4,98.0
+EMP-00378,Employee_378,49,Support,Senior,High School,Contract,2022-12-10,28,136364.97,5200.61,Good,1.0,45.0
+EMP-00673,Employee_673,23,HR,Lead,High School,Full-time,2022-07-20,9,187860.89,12480.39,Excellent,3.8,
+EMP-01026,Employee_1026,47,Legal,Director,Bachelor,Intern,2020-09-23,27,40034.84,8936.32,Average,1.8,20.0
+EMP-00367,Employee_367,46,Marketing,Junior,PhD,Contract,2019-10-26,36,121643.56,8939.44,Excellent,8.2,61.0
+EMP-00860,Employee_860,50,Sales,Manager,High School,Full-time,2020-06-27,28,43786.87,909.78,Excellent,2.0,75.0
+EMP-00515,Employee_515,25,Finance,Director,PhD,Full-time,2017-08-22,17,55381.86,2374.64,Average,6.0,31.0
+EMP-00936,Employee_936,41,Sales,VP,,Intern,2018-09-21,0,123589.12,1031.45,Average,2.9,42.0
+EMP-00921,Employee_921,34,Marketing,Junior,Other,Intern,2018-09-12,7,132696.02,9042.9,Excellent,,39.0
+EMP-01146,Employee_1146,42,Operations,Junior,Other,Full-time,2015-03-09,18,171116.99,9159.74,Excellent,2.5,79.0
+EMP-00771,Employee_771,39,Engineering,VP,Other,Contract,2016-05-05,36,108493.72,6618.13,Good,2.4,74.0
+EMP-01138,Employee_1138,28,Operations,Junior,Master,Contract,2022-06-10,39,75436.67,6941.61,Excellent,2.4,25.0
+EMP-00565,Employee_565,22,Engineering,VP,High School,Intern,2015-01-07,24,35367.02,10211.98,Average,5.1,13.0
+EMP-00923,Employee_923,45,Marketing,Manager,Other,Full-time,2017-06-19,25,71641.581,8865.1,Poor,8.8,18.0
+EMP-00945,Employee_945,61,Engineering,Senior,Other,Contract,2015-05-14,18,52071.2,13912.63,Below Average,3.1,20.0
+EMP-00607,Employee_607,41,Finance,VP,Bachelor,Full-time,2017-08-08,2,102040.38,1398.46,,3.0,
+EMP-00334,Employee_334,47,Marketing,VP,Bachelor,Contract,2016-03-21,23,96988.4,13832.54,Average,9.7,78.0
+EMP-00127,Employee_127,31,Operations,Lead,High School,Full-time,2015-11-20,34,49716.45,5933.3,,6.9,99.0
+EMP-00920,Employee_920,46,Marketing,Senior,Master,Part-time,2020-10-11,17,49908.54000000001,10550.84,Good,2.7,73.0
+EMP-00105,Employee_105,54,Operations,Senior,Master,Part-time,2015-04-10,38,"£183,769.20",3111.96,Good,7.1,46.0
+EMP-00129,Employee_129,38,Engineering,Lead,Bachelor,Part-time,2017-09-25,5,187540.24,4014.72,Good,4.4,73.0
+EMP-01079,Employee_1079,25,Marketing,Lead,PhD,Full-time,2015-02-10,30,152232.49,10302.19,Poor,4.3,47.0
+EMP-00866,Employee_866,38,Engineering,VP,Bachelor,Contract,2015-10-19,35,129816.53,9288.57,,1.9,22.0
+EMP-00564,Employee_564,36,Finance,VP,Master,Contract,2023-03-09,10,182579.81,9662.56,Excellent,7.0,55.0
+EMP-00864,Employee_864,28,Support,Junior,Other,Full-time,2021-01-31,16,200661.813,318.87,Average,3.2,53.0
+EMP-00321,Employee_321,43,Operations,Junior,PhD,Full-time,2020-11-10,10,202201.813,9632.24,Poor,9.5,55.0
+EMP-00242,Employee_242,43,Operations,VP,Bachelor,Part-time,2023-01-28,18,42671.24,4359.3,Below Average,3.6,13.0
+EMP-00846,Employee_846,33,Legal,Manager,Bachelor,Contract,2015-01-24,38,46070.47,10156.49,Average,5.5,57.0
+EMP-01075,Employee_1075,39,Marketing,Lead,Master,Contract,2019-11-11,25,82694.52,8220.52,Poor,5.7,0.0
+EMP-00869,Employee_869,53,HR,Senior,Other,Intern,2020-03-14,15,137414.76,10107.03,Excellent,6.7,64.0
+EMP-00007,Employee_7,34,Legal,VP,Master,Contract,2019-10-28,0,172054.3,13102.51,Below Average,4.0,62.0
+EMP-00963,Employee_963,22,Support,VP,Master,Full-time,2020-10-29,6,188023.68,11246.3,Poor,5.1,5.0
+EMP-00404,Employee_404,28,Sales,VP,Master,Intern,2021-10-22,3,"£47,226.57",14418.32,Poor,1.4,65.0
+EMP-00223,Employee_223,24,Engineering,Junior,High School,Part-time,2017-05-05,7,65577.96,11283.31,Excellent,7.7,73.0
+EMP-00550,Employee_550,40,Operations,Senior,High School,Contract,2021-12-08,24,158860.15,3041.42,Excellent,4.7,52.0
+EMP-00971,Employee_971,38,HR,Director,Bachelor,Intern,2017-07-31,21,44724.58,13435.29,Average,4.5,40.0
+EMP-00972,Employee_972,40,Finance,Manager,Master,Full-time,2019-02-26,11,161122.15,1630.87,Poor,1.2,21.0
+EMP-00893,Employee_893,36,HR,Manager,Bachelor,Full-time,2020-02-05,17,148927.5,7802.33,Below Average,6.9,32.0
+EMP-00062,Employee_62,29,Legal,Lead,PhD,Intern,2015-12-26,0,121512.64,9625.87,Poor,1.2,97.0
+EMP-00527,Employee_527,28,Marketing,Junior,Master,Part-time,2018-01-23,25,33746.42,8893.9,Good,7.8,11.0
+EMP-00446,Employee_446,39,Engineering,Manager,Other,Full-time,2022-05-24,14,68818.44,1970.43,,1.2,70.0
+EMP-00063,Employee_63,34,Support,VP,Other,Full-time,2017-08-08,28,182019.88,1310.1,Excellent,8.6,58.0
+EMP-00038,Employee_38,48,Support,Director,Master,Intern,2017-05-12,33,38889.71,7307.04,Average,7.5,88.0
+EMP-00643,Employee_643,29,Support,Senior,Bachelor,Intern,2017-12-06,15,58349.77,5383.59,Below Average,5.5,61.0
+EMP-01125,Employee_1125,46,Engineering,Senior,Master,Intern,2020-02-14,26,175778.34,4591.13,Below Average,6.1,92.0
+EMP-00641,Employee_641,49,Engineering,VP,Bachelor,Intern,2020-05-20,10,94855.44,6388.27,Excellent,2.2,7.0
+EMP-00626,Employee_626,44,HR,Director,Other,Intern,2016-09-14,17,119389.25,3198.23,Poor,7.9,11.0
+EMP-00015,Employee_15,24,HR,Lead,PhD,Intern,2021-03-22,17,102222.59,5396.98,Below Average,2.7,9.0
+EMP-00166,Employee_166,35,Marketing,VP,High School,Full-time,2017-01-20,26,152679.81,8794.27,Poor,1.7,71.0
+EMP-00619,Employee_619,23,Legal,VP,Master,Contract,2019-02-17,31,95041.59,5970.37,Average,8.6,33.0
+EMP-01051,Employee_1051,51,Marketing,Director,Bachelor,Intern,2015-07-21,39,145355.58,11745.81,Good,6.0,29.0
+EMP-00355,Employee_355,30,Operations,Senior,Master,Intern,2020-07-11,28,112787.14,1641.12,Poor,3.6,55.0
+EMP-00551,Employee_551,24,Sales,Junior,Other,Part-time,2015-08-03,34,58778.05,12860.8,Poor,7.4,27.0
+EMP-01116,Employee_1116,27,Legal,Manager,PhD,Full-time,2017-03-05,33,51548.47,14016.9,Below Average,9.3,50.0
+EMP-00401,Employee_401,46,Finance,Senior,PhD,Contract,2020-08-05,38,57909.01,3697.16,Below Average,6.6,39.0
+EMP-01156,Employee_1156,28,Finance,Manager,Bachelor,Contract,2019-07-15,17,76716.4,13145.8,Excellent,4.7,59.0
+EMP-00603,Employee_603,54,Sales,Manager,PhD,Intern,2023-02-17,26,187058.07,13317.95,Poor,5.0,80.0
+EMP-00013,Employee_13,38,Marketing,Senior,High School,Contract,2019-04-18,4,96042.73,12192.73,Poor,1.8,47.0
+EMP-01186,Employee_1186,34,Legal,Director,Other,Part-time,2022-11-17,33,127339.87,6638.7,,4.5,10.0
+EMP-01023,Employee_1023,51,Finance,VP,PhD,Contract,2020-12-05,26,133717.22,10217.7,Poor,4.8,3.0
+EMP-00440,Employee_440,38,Engineering,Director,Other,Contract,2015-04-16,5,160840.92,11818.52,Poor,9.8,12.0
+EMP-00287,Employee_287,27,Finance,Junior,Other,Contract,2022-09-18,12,42833.3,9189.7,Good,3.5,32.0
+EMP-00145,Employee_145,35,Finance,Junior,PhD,Intern,2016-01-26,39,157832.35,10898.24,Average,8.1,46.0
+EMP-00406,Employee_406,29,Marketing,Lead,Master,Full-time,2016-08-30,5,138147.61,8609.87,Excellent,8.0,55.0
+EMP-00594,Employee_594,44,Sales,Lead,PhD,Contract,2018-11-07,27,175423.19,2030.55,Below Average,3.2,14.0
+EMP-00414,Employee_414,40,Engineering,Director,High School,Part-time,2022-02-05,32,56435.58,9023.44,,2.1,17.0
+EMP-01085,Employee_1085,28,Engineering,Junior,,Contract,2018-07-27,37,54428.09,1368.33,Good,6.4,45.0
+EMP-01050,Employee_1050,22,Finance,VP,Other,Contract,2015-07-21,9,179923.59,8054.65,Excellent,9.6,
+EMP-00478,Employee_478,30,Engineering,Junior,Other,Intern,2020-11-29,8,181718.12,14793.25,Average,8.7,75.0
+EMP-01029,Employee_1029,39,Finance,VP,Other,Contract,2021-02-01,13,90017.4,10414.22,Good,9.0,0.0
+EMP-01114,Employee_1114,44,Finance,Junior,Bachelor,Full-time,2020-03-08,19,195090.52,3135.22,Average,7.1,16.0
+EMP-00026,Employee_26,43,Legal,Senior,Bachelor,Part-time,2015-02-09,31,86560.91,12576.84,Average,4.6,47.0
+EMP-00590,Employee_590,43,HR,Lead,Other,Full-time,2019-11-25,28,40022.57,12573.25,Below Average,1.7,92.0
+EMP-00676,Employee_676,51,Support,Manager,PhD,Part-time,2020-05-01,4,136763.83,9577.88,Poor,8.8,3.0
+EMP-00082,Employee_82,28,Engineering,Lead,Master,Full-time,2015-05-20,5,"£173,202.65",8889.46,Below Average,2.9,
+EMP-00362,Employee_362,43,Marketing,Manager,,Full-time,2016-11-03,19,191939.48,7807.76,Below Average,3.4,76.0
+EMP-00134,Employee_134,39,HR,Manager,Master,Part-time,2018-09-05,25,91910.65,14097.71,Excellent,6.5,75.0
+EMP-00002,Employee_2,28,Support,Lead,Other,Intern,2018-01-27,22,178543.26,12155.5,Below Average,9.1,
+EMP-00294,Employee_294,52,Support,Lead,High School,Contract,2015-11-27,8,172709.79,3200.67,Below Average,4.3,48.0
+EMP-00020,Employee_20,55,Sales,Manager,High School,Full-time,2022-04-10,32,170122.75,3780.46,Excellent,3.5,97.0
+EMP-00030,Employee_30,25,Operations,Manager,High School,Intern,2021-12-27,16,180027.05,11443.44,Excellent,6.4,60.0
+EMP-00335,Employee_335,29,Sales,Lead,PhD,Contract,2022-01-18,16,72854.46,5167.65,Poor,2.8,8.0
+EMP-00887,Employee_887,48,HR,Senior,High School,Full-time,2017-02-25,0,31838.29,12184.21,Poor,2.6,67.0
+EMP-00852,Employee_852,36,Operations,Senior,Bachelor,Intern,2019-10-30,27,168165.81,9053.25,Average,4.6,17.0
+EMP-00502,Employee_502,24,Finance,VP,PhD,Intern,2016-06-29,15,172214.08,7789.1,Excellent,7.9,68.0
+EMP-01059,Employee_1059,36,Marketing,VP,Bachelor,Intern,2019-06-04,0,95244.17,13024.37,Poor,6.8,77.0
+EMP-00504,Employee_504,50,HR,Junior,Other,Full-time,2018-08-07,8,"£90,377.16",13869.66,Good,2.4,40.0
+EMP-00584,Employee_584,49,Operations,Manager,,Intern,2020-02-05,36,88943.53,3424.32,,2.8,0.0
+EMP-00351,Employee_351,50,Finance,Junior,Other,Full-time,2022-04-08,11,168092.49,12680.24,Excellent,6.8,58.0
+EMP-00084,Employee_84,53,Operations,VP,Master,Full-time,2021-11-26,20,124754.51,9703.85,Below Average,8.4,70.0
+EMP-00882,Employee_882,37,Marketing,Junior,Bachelor,Part-time,2015-01-17,6,120836.67,9441.84,Good,3.5,53.0
+EMP-00804,Employee_804,44,Sales,Manager,PhD,Full-time,2022-02-09,16,84891.16,2710.68,Average,3.0,90.0
+EMP-00897,Employee_897,47,Legal,Senior,Other,Full-time,2015-11-30,19,83618.39,12999.06,Average,1.9,99.0
+EMP-00496,Employee_496,61,Sales,Director,Bachelor,Contract,2015-07-11,35,141561.12,3658.97,Good,7.6,82.0
+EMP-00331,Employee_331,53,Marketing,Junior,Bachelor,Full-time,2017-11-27,8,147378.24,1472.06,Poor,5.6,6.0
+EMP-00986,Employee_986,53,Engineering,Senior,PhD,Full-time,2016-04-12,19,43943.76,10158.37,Excellent,6.5,15.0
+EMP-00054,Employee_54,49,Sales,Junior,Master,Contract,2016-02-16,37,163082.3,9997.3,Poor,9.2,80.0
+EMP-00511,Employee_511,45,Finance,Junior,Other,Full-time,2021-04-20,5,129493.2,10795.06,Below Average,1.7,28.0
+EMP-00791,Employee_791,38,Engineering,Director,,Intern,2022-07-08,11,79178.42,12776.22,Good,1.4,36.0
+EMP-00174,Employee_174,24,Support,VP,Bachelor,Full-time,2017-07-20,13,90376.81,6139.32,Good,,34.0
+EMP-00914,Employee_914,51,Sales,Lead,PhD,Part-time,2021-09-01,6,123441.55,14415.15,Average,9.8,24.0
+EMP-00437,Employee_437,39,Marketing,Senior,Other,Intern,2017-01-15,26,"£126,553.59",13388.4,Good,9.6,12.0
+EMP-00489,Employee_489,43,HR,Lead,Other,Contract,2019-03-05,13,47858.72,7558.46,Average,6.8,96.0
+EMP-00770,Employee_770,49,HR,Director,Other,Intern,2019-01-10,28,61097.84,13356.04,Excellent,8.1,26.0
+EMP-00935,Employee_935,50,Engineering,Lead,Bachelor,Full-time,2016-09-28,34,196726.85,8463.39,Poor,1.3,38.0
+EMP-00571,Employee_571,38,Legal,Manager,Bachelor,Contract,2020-12-01,30,150348.63,5645.21,,,100.0
+EMP-00420,Employee_420,40,Support,Junior,Master,Part-time,2022-12-27,4,65663.95,13547.94,Average,9.7,83.0
+EMP-01180,Employee_1180,28,Engineering,Junior,High School,Intern,2016-05-18,13,"£77,234.39",8134.68,Below Average,,74.0
+EMP-00859,Employee_859,43,Finance,Director,High School,Part-time,2016-07-05,1,116304.17,2680.64,Average,6.5,36.0
+EMP-00616,Employee_616,39,Legal,Director,Bachelor,Full-time,2020-05-07,14,101214.25,11105.6,Average,9.7,91.0
+EMP-00467,Employee_467,36,Finance,Director,Master,Contract,2016-05-23,10,192219.58,9402.41,Good,,94.0
+EMP-01195,Employee_1195,32,Engineering,Director,Other,Part-time,2020-01-17,30,119915.58,11693.22,Good,3.7,19.0
+EMP-00867,Employee_867,53,Marketing,Senior,High School,Part-time,2016-01-13,26,56904.56,12511.17,Average,3.3,62.0
+EMP-00386,Employee_386,30,HR,Manager,Other,Intern,2023-01-24,1,166796.57,13107.3,,5.6,20.0
+EMP-00424,Employee_424,32,HR,VP,High School,Intern,2022-08-10,29,135673.93,4943.65,Good,,
+EMP-00545,Employee_545,30,HR,Senior,Bachelor,Full-time,2015-12-25,19,179400.34,11870.83,Below Average,9.7,25.0
+EMP-00150,Employee_150,49,Marketing,Director,Other,Part-time,2016-04-05,11,189695.35,8982.52,Good,9.7,16.0
+EMP-00517,Employee_517,32,Marketing,Senior,PhD,Part-time,2016-12-14,15,42039.72,11040.51,Below Average,9.9,6.0
+EMP-00886,Employee_886,48,Legal,Junior,,Full-time,2018-09-01,1,151233.34,12963.84,Average,7.5,12.0
+EMP-00219,Employee_219,54,HR,Lead,Master,Part-time,2022-10-10,7,117776.89,14542.29,Below Average,9.4,82.0
+EMP-00752,Employee_752,42,Finance,VP,Other,Full-time,2015-04-18,0,191442.96,1165.5,Average,7.5,14.0
+EMP-00748,Employee_748,41,Finance,Manager,PhD,Part-time,2019-10-02,32,148553.78,720.14,Poor,,16.0
+EMP-00699,Employee_699,45,HR,Director,PhD,Contract,2018-03-18,35,37924.348000000005,5305.11,,7.0,41.0
+EMP-01007,Employee_1007,39,Marketing,Director,PhD,Full-time,2021-06-19,29,49822.44,4515.64,,2.5,27.0
+EMP-00495,Employee_495,50,Marketing,Junior,PhD,Contract,2021-01-31,39,57443.22,50000.0,Poor,5.5,93.0
+EMP-00640,Employee_640,24,Engineering,Director,Other,Contract,2021-05-30,32,177372.23,1452.62,Good,7.1,13.0
+EMP-00465,Employee_465,49,Legal,Lead,Master,Part-time,2021-07-06,33,64698.25,8490.17,Average,,79.0
+EMP-00946,Employee_946,25,Finance,Junior,PhD,Full-time,2021-01-21,28,198970.91,6777.94,Excellent,9.0,39.0
+EMP-00144,Employee_144,30,Finance,Manager,High School,Contract,2020-08-18,26,115806.63,10194.34,Excellent,2.9,55.0
+EMP-00239,Employee_239,40,Legal,Lead,Master,Full-time,2018-06-03,35,59647.64,1794.02,Good,5.4,19.0
+EMP-00753,Employee_753,48,Sales,Junior,Master,Full-time,2018-01-16,24,151877.52,2005.96,Average,4.8,75.0
+EMP-00593,Employee_593,47,Operations,Manager,Bachelor,Contract,2022-11-24,15,121883.11,4957.88,Poor,1.8,84.0
+EMP-00630,Employee_630,35,Operations,VP,Bachelor,Full-time,2022-05-03,12,160062.69,10568.82,Poor,7.8,1.0
+EMP-00925,Employee_925,42,Marketing,Junior,Bachelor,Contract,2018-09-30,6,97916.07,5562.51,Excellent,4.4,61.0
+EMP-00831,Employee_831,23,Finance,Senior,Master,Full-time,2018-05-26,15,126759.87,11775.43,Poor,6.3,96.0
+EMP-00248,Employee_248,51,Engineering,Director,High School,Full-time,2017-01-14,11,36605.14,3862.43,Good,4.7,80.0
+EMP-01014,Employee_1014,53,Operations,Lead,High School,Contract,2021-07-15,2,178449.91,4204.59,Below Average,1.3,74.0
+EMP-00574,Employee_574,25,Sales,Senior,,Part-time,2019-12-25,39,148218.66,9249.15,Average,3.8,8.0
+EMP-00384,Employee_384,54,Sales,Senior,,Intern,2015-01-17,14,138221.02,1261.63,Poor,5.8,13.0
+EMP-01000,Employee_1000,36,Support,Director,High School,Contract,2020-04-05,27,159040.46,1542.58,Excellent,1.1,25.0
+EMP-00338,Employee_338,47,Support,Director,Master,Part-time,2018-01-10,0,116664.53,12802.81,Below Average,9.1,25.0
+EMP-00340,Employee_340,39,HR,Senior,Bachelor,Intern,2021-03-20,15,119736.23,9954.67,Poor,1.2,71.0
+EMP-00605,Employee_605,35,Finance,Senior,Other,Part-time,2022-07-04,3,77469.73,7789.19,Excellent,9.6,41.0
+EMP-00819,Employee_819,52,Marketing,Lead,Other,Full-time,2017-10-07,6,69422.96,14964.31,Good,7.7,82.0
+EMP-00602,Employee_602,43,Support,VP,Bachelor,Full-time,2019-02-16,33,86301.35,6365.63,Below Average,5.7,67.0
+EMP-00745,Employee_745,52,HR,VP,Other,Intern,2015-12-04,6,164353.38,13525.78,Below Average,,37.0
+EMP-00216,Employee_216,31,Marketing,Junior,Master,Full-time,2019-10-31,13,170158.18,8706.5,Poor,8.4,
+EMP-00169,Employee_169,41,Marketing,Lead,,Intern,2022-02-23,28,157385.26,7555.81,Good,3.2,7.0
+EMP-00138,Employee_138,28,Operations,Junior,Bachelor,Intern,2018-11-02,30,171497.61,6612.44,Poor,7.0,81.0
+EMP-00902,Employee_902,60,Legal,Senior,Other,Part-time,2017-05-27,11,68906.13,9612.94,Average,6.8,85.0
+EMP-00423,Employee_423,64,Support,Junior,High School,Full-time,2019-01-14,10,59642.95,13720.31,Below Average,1.8,98.0
+EMP-00221,Employee_221,26,HR,Manager,Other,Full-time,2019-09-16,3,110963.06,5922.11,Good,9.8,43.0
+EMP-00979,Employee_979,64,Operations,VP,Bachelor,Part-time,2016-05-31,7,185476.39,1728.86,Below Average,3.6,59.0
+EMP-00455,Employee_455,47,Operations,Junior,Bachelor,Full-time,2018-07-06,19,36617.95,13279.81,,1.3,70.0
+EMP-00520,Employee_520,31,Sales,Senior,Bachelor,Intern,2019-10-16,12,165357.83,75000.0,Poor,6.0,60.0
+EMP-00356,Employee_356,54,HR,VP,PhD,Full-time,2019-02-26,12,33633.22,14290.22,Average,9.4,57.0
+EMP-00993,Employee_993,30,Finance,Manager,,Part-time,2020-08-27,20,164057.82,13459.05,Average,8.6,27.0
+EMP-00758,Employee_758,32,Operations,Lead,Bachelor,Part-time,2018-03-09,30,164313.21,8439.29,Poor,8.3,72.0
+EMP-01063,Employee_1063,37,Operations,Senior,Bachelor,Part-time,2019-03-09,7,169267.05,5021.88,Average,2.6,71.0
+EMP-00195,Employee_195,48,Marketing,Junior,PhD,Contract,2015-09-17,33,166018.62,12889.97,Below Average,2.3,7.0
+EMP-00402,Employee_402,32,Support,VP,Bachelor,Intern,2016-06-24,6,163659.74,5880.94,Below Average,6.8,
+EMP-00666,Employee_666,39,HR,Manager,High School,Intern,2016-11-21,24,107877.9,2482.69,Excellent,6.0,48.0
+EMP-01074,Employee_1074,37,Operations,Senior,Master,Full-time,2018-03-30,14,81953.5,13202.89,Below Average,3.6,79.0
+EMP-01197,Employee_1197,34,Operations,Senior,Master,Intern,2019-10-20,31,62400.88,3769.27,Excellent,4.2,88.0
+EMP-00732,Employee_732,49,HR,Lead,Master,Contract,2020-08-21,37,164870.7,8421.45,Excellent,3.8,63.0
+EMP-00792,Employee_792,26,Legal,VP,PhD,Contract,2022-06-04,13,155955.47,1672.0,Below Average,8.4,56.0
+EMP-01035,Employee_1035,57,Support,Director,Master,Full-time,2019-03-31,38,184050.71,10719.8,Excellent,1.7,8.0
+EMP-00323,Employee_323,51,Support,Lead,Bachelor,Intern,2019-03-24,25,80818.38,9177.08,Poor,2.6,100.0
+EMP-00637,Employee_637,39,Marketing,Lead,Master,Full-time,2016-11-08,7,143823.48,9231.14,Good,,72.0
+EMP-00674,Employee_674,61,HR,Director,Other,Full-time,2021-03-18,9,132816.81,7271.75,Below Average,,66.0
+EMP-00998,Employee_998,53,Engineering,Director,High School,Part-time,2022-10-31,21,181848.41,5039.35,Excellent,1.8,
+EMP-00650,Employee_650,30,Operations,Lead,PhD,Full-time,2020-04-28,24,63208.79,5156.74,Excellent,2.3,15.0
+EMP-00573,Employee_573,49,Operations,Junior,PhD,Intern,2022-07-31,13,131906.97,7132.67,Good,5.1,98.0
+EMP-00313,Employee_313,28,Marketing,Manager,,Intern,2021-10-26,38,74095.78,1331.47,Excellent,6.2,9.0
+EMP-00326,Employee_326,37,Support,Director,Other,Full-time,2015-01-15,24,33522.58,9878.92,Below Average,6.7,75.0
+EMP-00901,Employee_901,33,Legal,Senior,High School,Full-time,2020-12-10,37,129509.44,10805.0,Excellent,2.8,13.0
+EMP-00613,Employee_613,34,Support,VP,Other,Contract,2018-12-18,25,151313.44,3843.31,Average,4.3,47.0
+EMP-00856,Employee_856,32,Operations,Director,Bachelor,Part-time,2022-10-07,16,191787.22,100000.0,Good,6.7,99.0
+EMP-00984,Employee_984,51,Marketing,Manager,High School,Intern,2023-01-23,31,163640.07,1189.72,Poor,5.2,88.0
+EMP-00433,Employee_433,61,HR,Manager,,Full-time,2019-03-01,0,145755.68,13075.3,Excellent,6.1,18.0
+EMP-00956,Employee_956,53,Legal,VP,Bachelor,Intern,2019-05-21,11,63507.94,12287.52,Average,2.3,93.0
+EMP-00719,Employee_719,27,HR,Director,Bachelor,Intern,2018-11-02,23,120006.77,11195.85,Below Average,6.6,70.0
+EMP-00260,Employee_260,54,Legal,Lead,Other,Full-time,2017-10-10,7,121579.06,10459.42,Poor,8.9,5.0
+EMP-00623,Employee_623,28,Engineering,Manager,Other,Full-time,2016-01-14,4,39179.28,14671.3,Excellent,3.5,96.0
+EMP-00442,Employee_442,29,Engineering,Lead,Bachelor,Intern,2019-05-27,9,197349.22,12861.17,Poor,7.0,87.0
+EMP-00796,Employee_796,41,Finance,Director,Other,Contract,2021-01-25,14,54727.71,5812.44,Below Average,7.2,31.0
+EMP-00282,Employee_282,46,Marketing,Lead,Bachelor,Part-time,2020-11-24,27,46186.83,6383.92,Poor,9.3,95.0
+EMP-00408,Employee_408,37,Legal,Lead,,Intern,2022-02-12,25,60331.64,11566.89,Poor,3.4,6.0
+EMP-00443,Employee_443,29,Legal,Director,Other,Full-time,2020-03-29,33,196718.79,4110.48,Average,6.5,7.0
+EMP-00635,Employee_635,53,Finance,Lead,Master,Part-time,2020-02-05,4,169175.96,11162.52,,6.4,36.0
+EMP-01098,Employee_1098,45,Support,Manager,Other,Contract,2020-06-08,10,30333.08,14208.8,Poor,7.2,62.0
+EMP-00900,Employee_900,36,Engineering,VP,Master,Part-time,2015-05-25,28,195795.23,11847.29,Below Average,3.0,50.0
+EMP-00460,Employee_460,42,Sales,Lead,Other,Full-time,2018-05-14,26,160947.62,10130.87,Average,7.1,96.0
+EMP-00093,Employee_93,62,Support,Director,PhD,Intern,2018-01-16,1,78740.22,12723.61,Good,4.0,15.0
+EMP-00575,Employee_575,55,HR,Lead,PhD,Contract,2016-11-17,18,135592.55,9240.99,Average,3.3,6.0
+EMP-00978,Employee_978,37,HR,Senior,Other,Part-time,2015-08-02,22,114231.65,2030.12,Excellent,9.8,5.0
+EMP-00939,Employee_939,23,Marketing,Lead,High School,Contract,2017-07-21,29,60418.545,14518.56,Average,5.6,77.0
+EMP-00504,Employee_504,50,HR,Junior,Other,Full-time,2018-08-07,8,"£90,377.16",13869.66,Good,2.4,40.0
+EMP-00687,Employee_687,52,Sales,VP,Other,Full-time,2019-09-09,24,195277.64,6655.55,Average,5.7,62.0
+EMP-00476,Employee_476,57,Support,Director,,Part-time,2017-11-20,9,194935.65,12884.39,Excellent,3.7,
+EMP-00932,Employee_932,46,Finance,Manager,Master,Contract,2015-04-03,27,52954.81,401.36,Average,1.1,76.0
+EMP-00558,Employee_558,34,HR,Lead,Master,Intern,2022-06-06,30,78944.11,11664.64,Below Average,,61.0
+EMP-00659,Employee_659,40,Finance,Director,Master,Part-time,2017-02-28,16,56010.97,12277.69,Poor,7.5,10.0
+EMP-00563,Employee_563,28,Legal,Junior,Bachelor,Contract,2016-08-04,26,176117.78,14788.81,Good,1.5,44.0
+EMP-00610,Employee_610,35,HR,Lead,High School,Intern,2017-05-12,1,49414.05,11356.71,Average,4.0,95.0
+EMP-00198,Employee_198,64,HR,Senior,Other,Part-time,2018-09-27,11,114880.35,6897.46,Average,2.3,40.0
+EMP-00751,Employee_751,43,Sales,Lead,High School,Intern,2020-03-15,16,185412.7,4640.38,Poor,1.9,70.0
+EMP-00018,Employee_18,38,HR,VP,Other,Intern,2022-12-04,17,77095.82,12075.78,Good,5.7,5.0
+EMP-01168,Employee_1168,36,Operations,Senior,PhD,Contract,2017-06-26,26,184437.6,13069.44,Poor,8.4,88.0
+EMP-00482,Employee_482,41,Sales,Lead,High School,Intern,2018-02-14,27,148894.45,5738.0,Average,7.1,67.0
+EMP-00576,Employee_576,30,Operations,Manager,Bachelor,Contract,2016-06-16,0,147858.31,12857.41,Average,3.2,74.0
+EMP-00472,Employee_472,59,Sales,Senior,Bachelor,Intern,2022-07-24,17,198307.24,11152.4,Excellent,2.3,25.0
+EMP-00764,Employee_764,59,Sales,Manager,High School,Intern,2015-06-20,14,198643.05,11774.32,Below Average,1.2,4.0
+EMP-00782,Employee_782,36,Finance,Senior,Master,Intern,2018-10-25,32,59688.98,4699.2,Good,10.0,30.0
+EMP-00136,Employee_136,37,Legal,VP,High School,Part-time,2021-12-19,9,47753.47,2364.94,Excellent,7.0,90.0
+EMP-00636,Employee_636,62,Legal,Manager,Bachelor,Intern,2020-07-20,31,143510.44,1001.08,Good,1.8,71.0
+EMP-00461,Employee_461,51,Finance,Director,Other,Intern,2015-07-19,3,109139.19,8704.55,Excellent,9.1,67.0
+EMP-01101,Employee_1101,38,Marketing,Manager,Master,Part-time,2015-01-03,37,132412.44,4126.66,Excellent,6.2,15.0
+EMP-00553,Employee_553,57,HR,Director,Master,Part-time,2019-04-08,39,170157.42,325.34,Good,5.0,7.0
+EMP-01090,Employee_1090,24,Support,Senior,Bachelor,Part-time,2020-04-22,15,81365.95,2881.62,Below Average,4.7,
+EMP-01182,Employee_1182,22,Legal,Manager,High School,Contract,2019-11-20,20,133400.32,7855.94,Average,4.7,11.0
+EMP-00009,Employee_9,52,Operations,Manager,PhD,Part-time,2020-12-01,24,153376.22,9880.66,Poor,1.5,21.0
+EMP-00078,Employee_78,35,Engineering,Senior,Other,Part-time,2020-07-04,28,48428.33,11735.97,Poor,,4.0
+EMP-00059,Employee_59,35,Finance,Junior,PhD,Contract,2022-07-31,15,85190.18,12194.27,Poor,7.7,16.0
+EMP-00960,Employee_960,52,Operations,Lead,Bachelor,Intern,2021-02-01,39,"£169,147.26",11.32,Below Average,4.0,38.0
+EMP-00763,Employee_763,48,Marketing,Senior,,Intern,2015-09-30,13,188516.43,6441.59,Excellent,6.4,86.0
+EMP-00885,Employee_885,42,Operations,Lead,Bachelor,Intern,2022-09-22,20,118247.21,4957.27,Poor,7.3,48.0
+EMP-00425,Employee_425,45,Engineering,Senior,PhD,Part-time,2015-08-20,11,156006.56,13721.31,Excellent,6.3,
+EMP-00481,Employee_481,49,Legal,Manager,Bachelor,Full-time,2017-07-09,35,139534.41,3152.45,Below Average,3.4,20.0
+EMP-00497,Employee_497,39,Sales,Senior,PhD,Intern,2016-02-18,26,"£66,963.98",3841.55,Good,1.7,74.0
+EMP-00140,Employee_140,25,Sales,Senior,Bachelor,Intern,2023-01-11,21,193732.605,5365.49,Good,1.8,76.0
+EMP-00413,Employee_413,40,Operations,VP,Master,Contract,2020-04-06,21,42789.35,9310.71,Poor,3.4,84.0
+EMP-00089,Employee_89,50,HR,Manager,PhD,Intern,2017-01-25,24,95269.39,1451.48,Excellent,6.7,89.0
+EMP-00999,Employee_999,37,Legal,VP,PhD,Intern,2022-03-03,39,92980.75,14294.25,Below Average,2.6,59.0
+EMP-00820,Employee_820,44,Engineering,Director,PhD,Full-time,2019-01-27,31,146668.59,12783.33,Average,5.5,55.0
+EMP-00324,Employee_324,32,Marketing,Senior,Bachelor,Contract,2022-04-20,18,38803.88,8275.2,Average,6.4,34.0
+EMP-00767,Employee_767,64,HR,Senior,PhD,Contract,2021-08-05,24,140007.42,9127.63,Poor,3.8,
+EMP-00322,Employee_322,48,Engineering,Senior,,Full-time,2018-10-10,23,111307.0,7196.26,Excellent,4.8,55.0
+EMP-00061,Employee_61,30,Marketing,Manager,Master,Part-time,2015-09-13,22,111071.98,3224.86,Good,7.3,58.0
+EMP-00927,Employee_927,40,HR,Senior,PhD,Part-time,2020-03-25,30,169706.94,4148.34,Excellent,8.8,74.0
+EMP-00837,Employee_837,40,Engineering,Junior,PhD,Intern,2019-10-30,28,186569.6,11043.7,Below Average,1.3,48.0
+EMP-00980,Employee_980,44,HR,VP,High School,Contract,2021-02-02,35,168742.14,3011.75,Below Average,3.3,95.0
+EMP-00297,Employee_297,39,Legal,Junior,Bachelor,Part-time,2017-05-31,37,173561.68,5135.25,Below Average,6.0,72.0
+EMP-00272,Employee_272,46,Legal,VP,High School,Part-time,2016-05-09,27,102156.86,14404.26,Excellent,2.4,72.0
+EMP-00047,Employee_47,51,Support,Lead,Bachelor,Part-time,2017-04-23,38,140268.92,1706.73,Excellent,3.3,71.0
+EMP-01111,Employee_1111,46,Legal,Junior,PhD,Part-time,2023-03-11,31,68888.56,2389.78,Excellent,,2.0
+EMP-01134,Employee_1134,23,Operations,Lead,PhD,Intern,2020-02-01,27,126026.53,2956.19,Excellent,1.4,3.0
+EMP-00361,Employee_361,43,Finance,Director,High School,Intern,2016-01-02,3,177910.71,6238.92,Below Average,9.8,11.0
+EMP-00017,Employee_17,23,HR,Lead,Bachelor,Contract,2018-09-25,5,187197.72,1597.46,Good,3.3,27.0
+EMP-00494,Employee_494,35,HR,Manager,PhD,Intern,2016-08-06,3,198093.82,4809.57,Excellent,2.9,14.0
+EMP-00816,Employee_816,30,HR,Manager,High School,Full-time,2017-02-27,17,179685.94,7724.05,Below Average,1.1,42.0
+EMP-00194,Employee_194,40,Finance,Director,PhD,Part-time,2016-09-14,24,34525.17,11172.97,Poor,1.7,95.0
+EMP-01147,Employee_1147,28,Legal,Junior,Other,Full-time,2016-11-23,3,150273.222,11373.91,Good,3.5,54.0
+EMP-00868,Employee_868,42,Support,Junior,Other,Part-time,2020-02-29,37,131631.44,14044.75,Poor,9.8,44.0
+EMP-00807,Employee_807,24,Sales,Junior,Master,Intern,2022-08-09,18,76135.02,6298.15,Below Average,,77.0
+EMP-00540,Employee_540,28,Engineering,Director,Other,Full-time,2019-05-22,32,194905.96,10917.55,Average,10.0,63.0
+EMP-00439,Employee_439,31,Engineering,VP,Other,Intern,2019-07-09,2,188846.99,3542.75,Average,5.4,52.0
+EMP-00141,Employee_141,50,Operations,Senior,Master,Part-time,2022-09-11,37,155754.16,6485.18,Poor,4.7,30.0
+EMP-00890,Employee_890,50,Engineering,Senior,Other,Full-time,2019-04-25,29,76953.39,6187.01,Below Average,9.1,0.0
+EMP-00468,Employee_468,28,Operations,Senior,Master,Full-time,2016-03-10,27,103770.21,12422.64,Below Average,4.8,89.0
+EMP-01039,Employee_1039,41,Finance,Director,Bachelor,Part-time,2022-04-28,7,"£114,460.11",1250.65,Average,2.8,50.0
+EMP-01112,Employee_1112,30,HR,Director,Master,Part-time,2015-12-26,9,104562.58,99.84,Excellent,1.9,70.0
+EMP-00266,Employee_266,40,Support,Senior,,Full-time,2022-09-01,22,40177.03,6379.55,Good,5.1,75.0
+EMP-00263,Employee_263,36,Marketing,Manager,Bachelor,Contract,2017-07-13,37,"£51,340.46",11990.57,Excellent,2.2,52.0
+EMP-01017,Employee_1017,48,Support,Senior,High School,Contract,2016-02-03,6,78855.96,14766.35,Below Average,,25.0
+EMP-00756,Employee_756,64,Engineering,Manager,PhD,Full-time,2019-09-02,20,45929.73,6877.2,Below Average,1.3,79.0
+EMP-00004,Employee_4,27,Finance,VP,Master,Full-time,2020-11-24,23,37081.77,10818.13,Average,,86.0
+EMP-00474,Employee_474,34,Operations,Director,High School,Full-time,2019-07-08,30,47969.28,48.67,Good,4.3,43.0
+EMP-00662,Employee_662,46,Legal,Senior,Bachelor,Intern,2019-08-14,11,39708.3,4241.2,Average,4.7,28.0
+EMP-00140,Employee_140,25,Sales,Senior,Bachelor,Intern,2023-01-11,21,176120.55,5365.49,Good,1.8,76.0
+EMP-01092,Employee_1092,32,Sales,Senior,PhD,Full-time,2016-01-27,1,111670.1,5984.58,,9.2,78.0
+EMP-00516,Employee_516,35,Marketing,Junior,PhD,Contract,2022-10-23,3,130828.08,9732.56,Average,6.1,99.0
+EMP-00343,Employee_343,41,Engineering,Lead,PhD,Full-time,2020-07-03,4,92202.05,11025.25,Poor,4.9,71.0
+EMP-01081,Employee_1081,47,Marketing,Senior,Bachelor,Full-time,2017-06-07,3,144580.34,9138.42,Excellent,2.0,91.0
+EMP-00941,Employee_941,26,Operations,VP,High School,Full-time,2017-01-24,38,73299.65,4266.19,Poor,9.0,96.0
+EMP-00052,Employee_52,41,Sales,Director,Bachelor,Full-time,2015-05-27,11,92217.15,8266.65,Average,4.1,43.0
+EMP-00531,Employee_531,32,Engineering,Manager,Master,Contract,2015-03-02,5,137869.2,13250.44,Excellent,5.0,10.0
+EMP-00435,Employee_435,44,Operations,Lead,PhD,Full-time,2021-10-03,28,50747.87,9393.64,Average,5.7,59.0
+EMP-00538,Employee_538,48,Marketing,Junior,Master,Full-time,2016-02-10,10,48288.99,6697.26,Good,6.2,39.0
+EMP-00696,Employee_696,28,Operations,Director,,Full-time,2021-12-10,32,154454.16,412.31,Poor,7.8,47.0
+EMP-00556,Employee_556,25,Sales,Senior,Master,Full-time,2018-12-10,4,99789.74,100000.0,Excellent,7.5,72.0
+EMP-01154,Employee_1154,24,Sales,Director,High School,Intern,2015-10-02,8,195553.4,507.67,Poor,5.9,12.0
+EMP-00951,Employee_951,59,Sales,Lead,High School,Part-time,2018-05-10,6,172048.86,13952.26,Good,9.9,62.0
+EMP-00360,Employee_360,44,Sales,Lead,Bachelor,Intern,2017-05-09,27,176661.15,3234.74,Good,8.8,23.0
+EMP-00256,Employee_256,33,Marketing,Senior,,Full-time,2021-08-28,25,112487.03,4430.28,Excellent,5.7,
+EMP-00391,Employee_391,46,Marketing,Manager,Master,Contract,2023-01-15,26,83633.3,13544.2,,8.7,69.0
+EMP-00721,Employee_721,41,HR,Director,PhD,Full-time,2022-08-07,18,89541.08,14157.26,Below Average,3.1,99.0
+EMP-01179,Employee_1179,25,Support,Lead,,Part-time,2018-07-29,5,117065.65,12693.41,Good,6.7,11.0
+EMP-00372,Employee_372,43,Marketing,Junior,Other,Full-time,2017-05-30,35,61708.26,6052.24,Excellent,4.3,27.0
+EMP-00159,Employee_159,49,Legal,Director,Other,Full-time,2018-05-15,1,56800.98,7895.44,,7.9,
+EMP-00412,Employee_412,39,Engineering,Lead,PhD,Full-time,2022-07-27,15,137872.79,5376.03,Excellent,7.2,81.0
+EMP-01004,Employee_1004,62,Finance,Lead,High School,Contract,2017-07-28,6,93780.72,7520.17,Average,6.6,73.0
+EMP-00485,Employee_485,50,Marketing,VP,PhD,Contract,2022-01-10,21,76986.87,5062.08,Excellent,2.9,10.0
+EMP-00147,Employee_147,42,Marketing,Director,High School,Full-time,2018-05-07,13,44485.61,8333.95,Excellent,2.6,97.0
+EMP-00827,Employee_827,29,Sales,Junior,PhD,Intern,2021-02-01,37,171999.21,889.2,Excellent,1.7,30.0
+EMP-00844,Employee_844,28,Operations,Senior,Master,Intern,2021-06-04,18,"£111,437.44",8387.58,Excellent,6.7,50.0
+EMP-00577,Employee_577,29,Support,Director,Bachelor,Intern,2019-11-25,26,126130.73,10297.74,Below Average,5.9,86.0
+EMP-00838,Employee_838,37,Operations,Senior,PhD,Contract,2020-01-26,6,62209.68,7653.39,Below Average,8.0,75.0
+EMP-00832,Employee_832,42,Marketing,VP,Other,Part-time,2018-09-10,36,165306.81200000003,9415.07,Excellent,1.3,56.0
+EMP-00589,Employee_589,49,Finance,Senior,Bachelor,Full-time,2018-07-01,4,186525.87,9289.2,Excellent,4.2,77.0
+EMP-00291,Employee_291,41,Support,Director,Bachelor,Full-time,2019-03-15,33,181137.59,10650.53,Good,4.5,
+EMP-00863,Employee_863,39,Support,Senior,Other,Intern,2022-02-21,35,60644.21,3445.5,Excellent,9.6,94.0
+EMP-00214,Employee_214,30,Finance,Manager,Master,Full-time,2019-04-14,27,112175.65,14686.97,Poor,9.8,0.0
+EMP-00381,Employee_381,31,Operations,Manager,PhD,Intern,2019-10-27,19,175696.23,4853.87,Good,6.8,
+EMP-00100,Employee_100,53,Support,VP,Bachelor,Part-time,2016-03-14,33,117650.21,7179.84,Good,6.9,81.0
+EMP-01160,Employee_1160,32,Engineering,Manager,Other,Part-time,2018-09-17,2,147407.21,8181.87,,3.0,37.0
+EMP-00430,Employee_430,28,Finance,Lead,Other,Contract,2018-08-19,0,36486.296,6551.7,Average,9.0,78.0
+EMP-00505,Employee_505,22,HR,Manager,PhD,Intern,2015-09-26,35,32160.42,10888.35,,8.4,4.0
+EMP-00597,Employee_597,35,Marketing,Lead,PhD,Part-time,2019-10-01,3,78629.26,6861.32,Poor,8.3,54.0
+EMP-00040,Employee_40,51,Marketing,Lead,,Contract,2021-05-27,35,99764.38,4543.88,Below Average,2.0,17.0
+EMP-00341,Employee_341,49,Operations,VP,Master,Intern,2018-11-28,39,119525.03,163.27,Average,2.9,68.0
+EMP-00003,Employee_3,25,Operations,VP,High School,Contract,2019-11-02,3,48408.12,2331.67,Below Average,9.7,47.0
+EMP-00452,Employee_452,26,HR,VP,PhD,Intern,2015-09-22,11,199996.37,3020.89,Poor,1.1,53.0
+EMP-01093,Employee_1093,39,Engineering,Manager,Bachelor,Full-time,2021-02-26,19,193637.88,1397.43,Excellent,9.3,78.0
+EMP-00609,Employee_609,40,HR,Senior,High School,Contract,2018-10-30,32,132089.13,11635.48,Excellent,1.4,56.0
+EMP-00421,Employee_421,63,Finance,Lead,Other,Contract,2022-07-14,13,66182.67,5999.91,Below Average,3.6,45.0
+EMP-00847,Employee_847,38,Sales,Director,PhD,Full-time,2020-08-14,9,34533.08,14587.03,Below Average,4.6,40.0
+EMP-00112,Employee_112,42,HR,Lead,Bachelor,Intern,2018-02-07,1,186517.17,8101.81,Poor,6.6,32.0
+EMP-00225,Employee_225,52,Marketing,Lead,PhD,Part-time,2016-10-27,39,48614.63,3766.69,Excellent,,26.0
+EMP-00943,Employee_943,33,Engineering,VP,High School,Intern,2016-05-22,32,102710.83,8276.11,Average,8.9,95.0
+EMP-00074,Employee_74,24,Operations,Manager,Master,Full-time,2019-03-18,29,81736.93,14021.22,Poor,,20.0
+EMP-00048,Employee_48,38,Support,Junior,Master,Intern,2018-12-13,9,74994.37,12822.74,Poor,1.4,31.0
+EMP-00639,Employee_639,40,Operations,VP,Master,Full-time,2015-03-24,35,109117.46,10973.88,Average,2.9,96.0
+EMP-00114,Employee_114,53,Engineering,Director,PhD,Contract,2015-02-16,18,71659.33,13345.88,Below Average,8.3,44.0
+EMP-00097,Employee_97,38,Finance,VP,Master,Part-time,2023-01-16,12,110198.64,4536.02,Average,7.5,63.0
+EMP-01148,Employee_1148,47,Operations,VP,High School,Full-time,2018-04-25,29,43198.34,7090.45,Poor,6.2,7.0
+EMP-00107,Employee_107,53,Sales,Senior,Bachelor,Full-time,2022-11-03,18,135587.03,100000.0,Excellent,7.4,13.0
+EMP-01042,Employee_1042,37,Marketing,Manager,Bachelor,Part-time,2019-03-05,14,90321.53,1394.26,Good,7.3,
+EMP-01123,Employee_1123,22,Operations,Manager,PhD,Part-time,2021-06-11,13,193234.92,3402.59,Average,4.4,
